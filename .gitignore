@@ -1,0 +1,13 @@
+.env
+.DS_Store
+node_modules/
+out/
+*.mp4
+*.mov
+*.wav
+__pycache__/
+
+# Designed workbooks stay on mavic.ai/toolkits (free download there).
+# Delete the two lines below to publish the workbooks and web page here as well.
+toolkits/**/*.xlsx
+toolkits/**/framework-page.html

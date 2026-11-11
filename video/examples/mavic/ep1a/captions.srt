@@ -1,0 +1,107 @@
+1
+00:00:00,134 --> 00:00:06,021
+Two products. Almost identical. One costs twice as much, because of a name.
+
+2
+00:00:06,727 --> 00:00:11,205
+Why do we pay for that? To answer it, we have to go back more than four thousand years.
+
+3
+00:00:12,663 --> 00:00:18,143
+This is the story of the brand: where it started, how it changed, and what AI is changing now.
+
+4
+00:00:21,531 --> 00:00:26,051
+The word brand comes from an Old English word for fire, or a piece of burning wood.
+
+5
+00:00:27,583 --> 00:00:47,069
+More than four thousand years ago, people in the Indus Valley carved small stone seals, likely to show who goods belonged to. Paintings in ancient Egyptian tombs show cattle being branded. And Roman brickmakers and potters pressed their names into clay, while wine jars in Pompeii carried the producer's name.
+
+6
+00:00:48,083 --> 00:00:51,556
+The first job of a brand was simple. Say who this belongs to, and who made it.
+
+7
+00:00:54,443 --> 00:01:00,961
+Then the mark took on a second job. In 1266, England made bakers' marks compulsory on bread.
+
+8
+00:01:01,484 --> 00:01:07,724
+If a loaf was short weight, you could find the baker. A brand became a promise you could hold someone to.
+
+9
+00:01:09,488 --> 00:01:16,728
+The industrial age broke the link between maker and buyer. Goods travelled hundreds of miles, and the person who made them was a stranger.
+
+10
+00:01:18,352 --> 00:01:29,363
+So the mark had to carry the trust instead. When Britain opened its trade mark register on the first of January 1876, Bass Brewery's red triangle became trade mark number one.
+
+11
+00:01:30,479 --> 00:01:36,999
+Legend says an employee queued all night to be first. There's no record that it happened. The trade mark is real.
+
+12
+00:01:38,745 --> 00:01:47,636
+By the 1880s, manufacturers were giving their brands personalities, so shoppers asked for the brand instead of taking the shopkeeper's word.
+
+13
+00:01:48,099 --> 00:02:01,069
+In May 1931, Neil McElroy at Procter and Gamble wrote a memo proposing one manager and one team for each brand, run like its own business. That memo is where modern brand management starts.
+
+14
+00:02:02,025 --> 00:02:10,905
+Then science caught up with what marketers suspected. In a 2004 study, volunteers tasted Coke and Pepsi, partly inside a brain scanner.
+
+15
+00:02:11,325 --> 00:02:21,445
+When they were shown the Coke can before a sip, it changed which drink they preferred, and lit up brain areas linked to memory. The name was changing how people judged the taste.
+
+16
+00:02:23,297 --> 00:02:34,781
+Brands also tell other people, and ourselves, who we are. Back in 1899, the economist Thorstein Veblen called it conspicuous consumption: buying things partly to show your status.
+
+17
+00:02:35,797 --> 00:02:40,259
+The internet flipped the direction. Brands used to broadcast. Now customers answer back, in public.
+
+18
+00:02:41,669 --> 00:02:54,627
+Glossier launched in 2014 out of a beauty blog, Into the Gloss, which asked its readers what products they wished existed. The brand was no longer only what the company said. It was what people said back.
+
+19
+00:02:56,129 --> 00:03:14,489
+Now there's a new reader. In a July 2026 survey of more than two thousand US adults, about three in ten said they use AI chatbots to research products. Among people who use AI, about six in ten had found a new brand through a chatbot's recommendation.
+
+20
+00:03:15,429 --> 00:03:22,509
+And more of what brands say is now drafted by AI. A team of three can publish like a department.
+
+21
+00:03:23,497 --> 00:03:30,897
+Which makes the old problem harder, not easier. When anyone can make content, the brands that stand out are the ones that sound like themselves every time.
+
+22
+00:03:33,197 --> 00:03:44,615
+Look at the whole timeline, and the mark keeps changing. A seal. A burn. A stamp on a loaf. A trade mark. A feed. An answer from an AI.
+
+23
+00:03:45,297 --> 00:03:57,621
+But the job never changed. A brand exists for two reasons. Choosing is risky, so a brand tells you what to expect. And people want to belong, so a brand tells the world something about who chose it.
+
+24
+00:03:59,392 --> 00:04:04,112
+That's the first principle. A brand is a promise, made distinctive, and kept consistently.
+
+25
+00:04:05,404 --> 00:04:11,884
+That's what this channel is for: one idea in brand marketing at a time, taken back to first principles.
+
+26
+00:04:12,952 --> 00:04:18,432
+And at Mavic, we're building AI that works from your brand, so what you make with it still sounds like you.
+
+27
+00:04:20,220 --> 00:04:25,459
+Keeping a brand's promise is getting harder. We're building the tools to help you keep yours. Follow along.

@@ -1,0 +1,36 @@
+# Mavic Brand Marketing Workbench
+
+> Free, open toolkits, workbench templates, AI skills and video templates for brand marketing in the AI era. Writing CC BY 4.0, code MIT. Made by Mavic (mavic.ai).
+
+## Start
+- README.md: what this is and how the parts fit together
+- AGENTS.md: guide for AI assistants
+- LICENSE: CC BY 4.0 for writing, MIT for code; the Mavic name and logo are not licensed
+
+## Toolkits
+- toolkits/02-brand-voice/README.md: method for writing down a brand's voice (personality, tone by channel, do and don't, ban list, test)
+- toolkits/02-brand-voice/worksheet.md: fill-in worksheet
+- toolkits/02-brand-voice/presets.md: 12 archetypes, 24 traits, 13 channel defaults, 21 rules, 9 ban list packs, 10 test prompts
+- toolkits/02-brand-voice/presets.json: the same presets, machine-readable
+- toolkits/02-brand-voice/sources.md: sources for every claim
+- toolkits/01-what-is-a-brand/README.md: Brand DNA Scorecard (workbook on mavic.ai)
+- toolkits/06-content-calendar/README.md: 30-Day Content Calendar (workbook on mavic.ai)
+- toolkits/_build/: scripts that generate the workbooks and export the presets
+
+## Workbenches
+- workbenches/README.md: how workbenches work
+- workbenches/brand-dna/brand-book.md: brand book template read by the skills
+- workbenches/examples/kopi-corner/brand-book.md: a complete brand book for a fictional coffee shop
+- workbenches/examples/bloom-skin/brand-dna.md: Brand DNA for a fictional skincare brand
+
+## Skills
+- skills/README.md: how to install
+- skills/brand-voice-check/SKILL.md: check a draft against a brand book
+- skills/brand-voice-check/evals/evals.json: 8 test cases on Kopi Corner
+
+## Video
+- video/formats/explainer.md: how to make an explainer (history to first principle)
+- video/formats/how-to.md: how to make a how-to (teaching layer, real recordings)
+- video/capture/ep1b-screen-recording-brief.md: a full screen recording brief, with seed data and shot list
+- video/remotion/paper-explainer/: Remotion source for a paper-collage explainer
+- video/examples/mavic/: real episode packs (scripts, voiceover tables, captions, stills)

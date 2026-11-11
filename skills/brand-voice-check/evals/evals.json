@@ -1,0 +1,109 @@
+{
+  "skill": "brand-voice-check",
+  "version": "0.1.1",
+  "brand_book": "workbenches/examples/kopi-corner/brand-book.md",
+  "how_to_run": "Give the skill the brand book, the draft and the channel for each case. A case passes when every must_flag item is flagged, nothing in must_not_flag is flagged, and the verdict matches. Log each run in results.md.",
+  "cases": [
+    {
+      "id": "kc-01-clean",
+      "channel": "Instagram",
+      "draft": "6.30am. First batch of kaya toast is out.\n\nKopi and two toast, $4.20 till 10am.\n\nWho's here before us? ☕",
+      "verdict": "On voice",
+      "must_flag": [],
+      "must_not_flag": [
+        "$4.20 (a price the brand gives up front is allowed)",
+        "the single emoji"
+      ]
+    },
+    {
+      "id": "kc-02-banned-words",
+      "channel": "Instagram",
+      "draft": "Unlock your morning with our mouth-watering kaya toast. A true hidden gem! What's your order?",
+      "verdict": "Off voice",
+      "must_flag": [
+        "Unlock -> open, start",
+        "mouth-watering -> describe the taste",
+        "hidden gem -> say where we are"
+      ],
+      "must_not_flag": [
+        "the closing question (matches How we close)"
+      ]
+    },
+    {
+      "id": "kc-03-inflected-ban",
+      "channel": "Facebook",
+      "draft": "We're unlocking new opening hours from Monday, elevating your weekday breakfast. See you from 6.30am.",
+      "verdict": "Off voice",
+      "must_flag": [
+        "unlocking (inflected form of unlock)",
+        "elevating (inflected form of elevate)"
+      ],
+      "must_not_flag": []
+    },
+    {
+      "id": "kc-04-emoji-and-fake-urgency",
+      "channel": "Instagram",
+      "draft": "New pandan kaya!!! 🔥🔥🥥☕😍 Only a few left!!! Grab yours now!!!",
+      "verdict": "Off voice",
+      "must_flag": [
+        "Emoji rule: 5 emoji, 2 at most",
+        "Urgency rule: 'Only a few left!!!' is pressure that isn't true unless a real limit is given",
+        "Personality: shouty, outside Warm and Down-to-earth"
+      ],
+      "must_not_flag": []
+    },
+    {
+      "id": "kc-05-stiff-and-formal",
+      "channel": "Facebook",
+      "draft": "We are pleased to inform you that Kopi Corner will be closed on Monday for maintenance purposes. We apologise for any inconvenience caused.",
+      "verdict": "Off voice",
+      "must_flag": [
+        "Contractions rule: 'We are pleased to inform you' is the listed Don't",
+        "Personality: not Warm or Down-to-earth",
+        "How we close: no clear call to action (for example when we reopen)"
+      ],
+      "must_not_flag": []
+    },
+    {
+      "id": "kc-06-unsourced-claims",
+      "channel": "Instagram",
+      "draft": "Voted Singapore's best kopi by 10,000 customers. \"Changed my mornings forever\", says Mei. Come see why.",
+      "verdict": "Off voice",
+      "must_flag": [
+        "'Voted Singapore's best kopi by 10,000 customers': ranking and number with no source",
+        "the quote from Mei: testimonial with no source or permission given",
+        "best (close to the banned 'best in town')"
+      ],
+      "must_not_flag": [],
+      "must_not_do": [
+        "invent a source",
+        "invent a replacement statistic or quote"
+      ]
+    },
+    {
+      "id": "kc-07-missing-channel",
+      "channel": "LinkedIn",
+      "draft": "We're hiring a morning barista. 6am starts, kopi on the house. Message us if you know someone.",
+      "verdict": "On voice",
+      "must_flag": [
+        "note that LinkedIn has no block in Channel by channel, so only Personality and How we write everywhere were checked"
+      ],
+      "must_not_flag": []
+    },
+    {
+      "id": "kc-08-no-brand-book",
+      "channel": "Instagram",
+      "brand_book_override": null,
+      "draft": "Fresh kaya toast, every morning.",
+      "verdict": "No check",
+      "must_flag": [
+        "says there is no brand book and points to toolkits/02-brand-voice/worksheet.md"
+      ],
+      "must_not_flag": [],
+      "must_not_do": [
+        "make up a voice for the brand",
+        "rewrite the draft"
+      ]
+    }
+  ]
+}

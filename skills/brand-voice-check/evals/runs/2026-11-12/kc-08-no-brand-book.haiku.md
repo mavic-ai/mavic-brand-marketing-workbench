@@ -1,0 +1,3 @@
+I couldn't run the check because there's no brand book in this project. I searched the current directory (`.`) and found only `prompt.txt`, `err-sonnet.txt`, `out-sonnet.md`, `err-haiku.txt` and `out-haiku.md`. None of them is a brand book.
+
+The skill checks drafts against the brand's written voice, so it needs a file in the shape of `workbenches/brand-dna/brand-book.md`. To get one, fill in `toolkits/02-brand-voice/worksheet.md`, which produces the brand book. Then put the file at `workbenches/brand-dna/brand-book.md` in the project and send the draft again. I haven't made up a voice for Mavic or any other brand.

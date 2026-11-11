@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or adapt this material, please credit it as below."
+title: "Mavic Brand Marketing Workbench"
+abstract: "Free, open toolkits, workbench templates, AI skills and video templates for brand marketing in the AI era."
+type: dataset
+authors:
+  - name: "Mavic"
+    website: "https://mavic.ai"
+version: "0.1.0"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+keywords:
+  - brand marketing
+  - brand voice
+  - style guide
+  - agent skills
+  - AI content

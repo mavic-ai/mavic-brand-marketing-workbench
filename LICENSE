@@ -1,0 +1,32 @@
+Copyright (c) 2026 Mavic
+
+This repository uses two licences.
+
+1. Content: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   Everything that is writing or teaching material: toolkits, worksheets,
+   presets, workbench templates and examples, skill instructions (SKILL.md and
+   references), evals, video formats, briefs and script packs, and method notes.
+   Full text: LICENSES/CC-BY-4.0.txt
+   https://creativecommons.org/licenses/by/4.0/
+
+   You may copy, adapt and use this material for any purpose, including
+   commercial work, as long as you give credit. Suggested credit:
+   "Based on the Mavic Brand Marketing Workbench (mavic.ai), CC BY 4.0"
+   with a link to https://github.com/mavic-ai/mavic-brand-marketing-workbench
+
+2. Code: MIT License
+   Everything that is software: scripts in toolkits/_build/, the Remotion
+   source in video/remotion/, and any other .py, .js, .mjs, .ts or .tsx file.
+   Full text: LICENSES/MIT.txt
+
+Not covered by either licence
+   The Mavic name, the Mavic logo (including the files in
+   video/remotion/paper-explainer/public/) and the Mavic brand identity are
+   trademarks of Mavic and are not licensed for reuse. Swap them for your own
+   brand when you reuse the templates. Third-party works cited in sources files
+   belong to their authors.
+
+Remotion
+   The video templates depend on Remotion, which has its own licence. Companies
+   above Remotion's size threshold need a paid company licence:
+   https://www.remotion.dev/license

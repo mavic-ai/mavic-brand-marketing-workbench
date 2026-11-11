@@ -1,0 +1,17 @@
+{
+  "name": "mavic-brand-marketing-workbench",
+  "owner": { "name": "Mavic", "url": "https://mavic.ai" },
+  "metadata": {
+    "description": "Free, open brand marketing skills from the Mavic Brand Marketing Workbench.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mavic-brand-marketing-workbench",
+      "source": "./",
+      "description": "Brand marketing skills that read a brand's workbench: brand voice check first, more with each toolkit.",
+      "version": "0.1.0",
+      "category": "marketing"
+    }
+  ]
+}

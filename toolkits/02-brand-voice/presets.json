@@ -1,0 +1,998 @@
+{
+  "version": "2.2",
+  "note": "Presets are starting points every brand can pick. Channel defaults are rules of thumb, not platform rules. Rewrite them in your own words.",
+  "archetypes": [
+    {
+      "name": "The Trusted Guide",
+      "description": "We explain before we sell. We sound calm, clear and sure of our facts, and we admit what we don't know. People come to us to understand, then decide.",
+      "traits": [
+        "Calm",
+        "Expert",
+        "Honest",
+        "Reassuring"
+      ]
+    },
+    {
+      "name": "The Straight Talker",
+      "description": "We say it plainly and get to the point. We name the price, the catch and the trade-off before anyone has to ask. No fluff, no hype.",
+      "traits": [
+        "Direct",
+        "Honest",
+        "Practical"
+      ]
+    },
+    {
+      "name": "The Good Friend",
+      "description": "We sound like someone you'd text for advice: warm, easy to read, a little funny and always on your side. We never talk down.",
+      "traits": [
+        "Warm",
+        "Down-to-earth",
+        "Playful"
+      ]
+    },
+    {
+      "name": "The Expert",
+      "description": "We know this field deeply and it shows in the details. We are precise, we cite what we can and we explain the why. Confident, never showy.",
+      "traits": [
+        "Expert",
+        "Precise",
+        "Confident"
+      ]
+    },
+    {
+      "name": "The Challenger",
+      "description": "We question how things are usually done in our category and say so. Bold and a little provocative, always with a better way to offer.",
+      "traits": [
+        "Bold",
+        "Rebellious",
+        "Witty"
+      ]
+    },
+    {
+      "name": "The Maker",
+      "description": "We love the craft behind what we make. We show our work, name the materials and the steps, and take pride in small details.",
+      "traits": [
+        "Curious",
+        "Precise",
+        "Thoughtful"
+      ]
+    },
+    {
+      "name": "The Carer",
+      "description": "We put people's comfort first. Gentle, patient and reassuring, we make hard things feel manageable.",
+      "traits": [
+        "Caring",
+        "Calm",
+        "Reassuring"
+      ]
+    },
+    {
+      "name": "The Explorer",
+      "description": "We are always looking for what's next and we bring people along. Curious, energetic and happy to try things first.",
+      "traits": [
+        "Curious",
+        "Energetic",
+        "Optimistic"
+      ]
+    },
+    {
+      "name": "The Entertainer",
+      "description": "We make people smile while we make our point. Playful, quick and surprising, never at the customer's expense.",
+      "traits": [
+        "Playful",
+        "Witty",
+        "Energetic"
+      ]
+    },
+    {
+      "name": "The Refined",
+      "description": "We say less and choose every word. Calm, polished and understated: quality shows without being announced.",
+      "traits": [
+        "Refined",
+        "Calm",
+        "Precise"
+      ]
+    },
+    {
+      "name": "The Encourager",
+      "description": "We believe people can do more than they think, and we show them how. Upbeat and practical about the next step.",
+      "traits": [
+        "Optimistic",
+        "Inspiring",
+        "Practical"
+      ]
+    },
+    {
+      "name": "The Community Builder",
+      "description": "We talk with people, not at them. We ask questions, spotlight customers and share the mic.",
+      "traits": [
+        "Inclusive",
+        "Warm",
+        "Curious"
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "name": "Direct",
+      "sounds_like": "We get to the point and say the hard part first.",
+      "does_not_mean": "Blunt, cold or rude."
+    },
+    {
+      "name": "Honest",
+      "sounds_like": "We name the trade-offs and say what we can't do.",
+      "does_not_mean": "Negative or self-critical."
+    },
+    {
+      "name": "Warm",
+      "sounds_like": "We sound like a person who's glad you're here.",
+      "does_not_mean": "Gushing, sugary or over-familiar."
+    },
+    {
+      "name": "Playful",
+      "sounds_like": "We enjoy words and leave room for a smile.",
+      "does_not_mean": "Silly, or jokey about serious things."
+    },
+    {
+      "name": "Witty",
+      "sounds_like": "A sharp turn of phrase makes the point stick.",
+      "does_not_mean": "Showing off or using in-jokes."
+    },
+    {
+      "name": "Calm",
+      "sounds_like": "Steady and unhurried, even when the topic is urgent.",
+      "does_not_mean": "Flat, slow or detached."
+    },
+    {
+      "name": "Bold",
+      "sounds_like": "We take a clear stand and say it with conviction.",
+      "does_not_mean": "Loud, arrogant or picking fights."
+    },
+    {
+      "name": "Confident",
+      "sounds_like": "We state what we know without hedging.",
+      "does_not_mean": "Boastful, or unwilling to admit limits."
+    },
+    {
+      "name": "Curious",
+      "sounds_like": "We ask why, test things and share what we learn.",
+      "does_not_mean": "Vague, unsure or rambling."
+    },
+    {
+      "name": "Expert",
+      "sounds_like": "We explain the why, with detail only a specialist would know.",
+      "does_not_mean": "Jargon-heavy or lecturing."
+    },
+    {
+      "name": "Precise",
+      "sounds_like": "Exact numbers, exact words, no padding.",
+      "does_not_mean": "Cold, technical or pedantic."
+    },
+    {
+      "name": "Practical",
+      "sounds_like": "Every post leaves people with a next step they can take.",
+      "does_not_mean": "Dull or purely instructional."
+    },
+    {
+      "name": "Reassuring",
+      "sounds_like": "We lower the stakes and make it feel doable.",
+      "does_not_mean": "Dismissive of real worries."
+    },
+    {
+      "name": "Caring",
+      "sounds_like": "We notice how people feel and respond to it.",
+      "does_not_mean": "Pitying or over-emotional."
+    },
+    {
+      "name": "Down-to-earth",
+      "sounds_like": "Everyday words and real examples, no airs.",
+      "does_not_mean": "Sloppy or careless."
+    },
+    {
+      "name": "Optimistic",
+      "sounds_like": "We look for what can go right and show how to get there.",
+      "does_not_mean": "Naive, or ignoring real problems."
+    },
+    {
+      "name": "Inspiring",
+      "sounds_like": "We show people what's possible for them.",
+      "does_not_mean": "Preachy or full of slogans."
+    },
+    {
+      "name": "Energetic",
+      "sounds_like": "Short sentences, active verbs, momentum.",
+      "does_not_mean": "Shouty, or full of exclamation marks."
+    },
+    {
+      "name": "Thoughtful",
+      "sounds_like": "We take a moment to say something worth reading.",
+      "does_not_mean": "Slow, heavy or academic."
+    },
+    {
+      "name": "Inclusive",
+      "sounds_like": "We write so everyone feels the post is for them.",
+      "does_not_mean": "Bland, or afraid to take a view."
+    },
+    {
+      "name": "Refined",
+      "sounds_like": "Understated and polished, every word chosen.",
+      "does_not_mean": "Snobbish or cold."
+    },
+    {
+      "name": "Quirky",
+      "sounds_like": "An unexpected angle you'd only get from us.",
+      "does_not_mean": "Random or confusing."
+    },
+    {
+      "name": "Rebellious",
+      "sounds_like": "We question our category's habits out loud.",
+      "does_not_mean": "Negative, or against everything."
+    },
+    {
+      "name": "Humble",
+      "sounds_like": "We credit others and let results speak.",
+      "does_not_mean": "Unsure or apologetic."
+    }
+  ],
+  "channels": [
+    {
+      "channel": "Instagram",
+      "who_its_for": "People scrolling for ideas, inspiration and people they like.",
+      "formality_1_to_5": 2,
+      "sentence_length": "Short: under 15 words",
+      "opening": "A bold claim",
+      "closing": "A question that invites comments",
+      "formatting": "Line breaks, 1 or 2 emoji",
+      "examples_and_data": "Before and after: show, don't claim",
+      "product_mentions": "Named once, after the problem"
+    },
+    {
+      "channel": "TikTok",
+      "who_its_for": "People watching to be entertained, who stay only if the first line hooks them.",
+      "formality_1_to_5": 1,
+      "sentence_length": "Very short: under 10 words",
+      "opening": "A bold claim",
+      "closing": "A question that invites comments",
+      "formatting": "One short paragraph",
+      "examples_and_data": "Before and after: show, don't claim",
+      "product_mentions": "Teach first, product last"
+    },
+    {
+      "channel": "Facebook",
+      "who_its_for": "Existing customers and locals who want news and offers they can trust.",
+      "formality_1_to_5": 2,
+      "sentence_length": "Medium: 15 to 20 words",
+      "opening": "Straight to the news",
+      "closing": "One clear call to action",
+      "formatting": "Line breaks, 1 or 2 emoji",
+      "examples_and_data": "Customer stories over statistics",
+      "product_mentions": "Named once, after the problem"
+    },
+    {
+      "channel": "LinkedIn",
+      "who_its_for": "Professionals reading for ideas they can use at work.",
+      "formality_1_to_5": 3,
+      "sentence_length": "Mixed: short lines between longer ones",
+      "opening": "A surprising number",
+      "closing": "A takeaway to remember",
+      "formatting": "Short paragraphs, no emoji",
+      "examples_and_data": "One number or fact per post",
+      "product_mentions": "Teach first, product last"
+    },
+    {
+      "channel": "X",
+      "who_its_for": "People in fast conversations who reward a clear point of view.",
+      "formality_1_to_5": 2,
+      "sentence_length": "Very short: under 10 words",
+      "opening": "A bold claim",
+      "closing": "End on the point, no sign-off",
+      "formatting": "One short paragraph",
+      "examples_and_data": "One number or fact per post",
+      "product_mentions": "Only when it answers the question"
+    },
+    {
+      "channel": "Threads",
+      "who_its_for": "People in a relaxed conversation who reply more than they share.",
+      "formality_1_to_5": 1,
+      "sentence_length": "Short: under 15 words",
+      "opening": "A question",
+      "closing": "A question that invites comments",
+      "formatting": "One short paragraph",
+      "examples_and_data": "Keep it light, no data",
+      "product_mentions": "Only when it answers the question"
+    },
+    {
+      "channel": "Email newsletter",
+      "who_its_for": "Subscribers who chose to hear from us and expect something useful.",
+      "formality_1_to_5": 3,
+      "sentence_length": "Medium: 15 to 20 words",
+      "opening": "A personal note",
+      "closing": "One clear call to action",
+      "formatting": "Short paragraphs, no emoji",
+      "examples_and_data": "Customer stories over statistics",
+      "product_mentions": "Named once, after the problem"
+    },
+    {
+      "channel": "Blog and search",
+      "who_its_for": "People searching for an answer to one specific question.",
+      "formality_1_to_5": 3,
+      "sentence_length": "Medium: 15 to 20 words",
+      "opening": "A how-to promise",
+      "closing": "A takeaway to remember",
+      "formatting": "Headings and short sections",
+      "examples_and_data": "A source linked for every claim",
+      "product_mentions": "Teach first, product last"
+    },
+    {
+      "channel": "Website",
+      "who_its_for": "Visitors deciding whether we're right for them.",
+      "formality_1_to_5": 3,
+      "sentence_length": "Short: under 15 words",
+      "opening": "The customer's problem, in their words",
+      "closing": "One clear call to action",
+      "formatting": "Headings and short sections",
+      "examples_and_data": "Before and after: show, don't claim",
+      "product_mentions": "Lead with the product"
+    },
+    {
+      "channel": "Ads",
+      "who_its_for": "People who didn't ask to hear from us: one idea, fast.",
+      "formality_1_to_5": 2,
+      "sentence_length": "Very short: under 10 words",
+      "opening": "The customer's problem, in their words",
+      "closing": "One clear call to action",
+      "formatting": "One short paragraph",
+      "examples_and_data": "One number or fact per post",
+      "product_mentions": "Lead with the product"
+    },
+    {
+      "channel": "YouTube",
+      "who_its_for": "Viewers who want to learn or be entertained, and decide in the first few seconds.",
+      "formality_1_to_5": 2,
+      "sentence_length": "Mixed: short lines between longer ones",
+      "opening": "A how-to promise",
+      "closing": "A question that invites comments",
+      "formatting": "Line breaks, no emoji",
+      "examples_and_data": "Before and after: show, don't claim",
+      "product_mentions": "Teach first, product last"
+    },
+    {
+      "channel": "WhatsApp and chat",
+      "who_its_for": "Customers messaging us one to one, usually with a question.",
+      "formality_1_to_5": 1,
+      "sentence_length": "Very short: under 10 words",
+      "opening": "A personal note",
+      "closing": "A sign-off in our voice",
+      "formatting": "Line breaks, 1 or 2 emoji",
+      "examples_and_data": "Keep it light, no data",
+      "product_mentions": "Only when it answers the question"
+    },
+    {
+      "channel": "Press",
+      "who_its_for": "Journalists looking for a story, facts and a quote they can use.",
+      "formality_1_to_5": 5,
+      "sentence_length": "Medium: 15 to 20 words",
+      "opening": "Straight to the news",
+      "closing": "End on the point, no sign-off",
+      "formatting": "Headings and short sections",
+      "examples_and_data": "A source linked for every claim",
+      "product_mentions": "Lead with the product"
+    }
+  ],
+  "options": {
+    "sentence_length": [
+      "Very short: under 10 words",
+      "Short: under 15 words",
+      "Medium: 15 to 20 words",
+      "Long and flowing: 20 words or more",
+      "Mixed: short lines between longer ones"
+    ],
+    "opening": [
+      "A question",
+      "A bold claim",
+      "A surprising number",
+      "The customer's problem, in their words",
+      "A short story or moment",
+      "A how-to promise",
+      "Straight to the news",
+      "A personal note"
+    ],
+    "closing": [
+      "A question that invites comments",
+      "One clear call to action",
+      "A takeaway to remember",
+      "A link and nothing else",
+      "A sign-off in our voice",
+      "End on the point, no sign-off"
+    ],
+    "formatting": [
+      "Line breaks, 1 or 2 emoji",
+      "Line breaks, no emoji",
+      "Short paragraphs, no emoji",
+      "Bullets for steps or lists",
+      "Headings and short sections",
+      "One short paragraph"
+    ],
+    "examples_and_data": [
+      "One number or fact per post",
+      "Customer stories over statistics",
+      "A source linked for every claim",
+      "Before and after: show, don't claim",
+      "Keep it light, no data"
+    ],
+    "product_mentions": [
+      "Named once, after the problem",
+      "Teach first, product last",
+      "Lead with the product",
+      "Only when it answers the question",
+      "Never on this channel"
+    ]
+  },
+  "do_and_dont": [
+    {
+      "rule": "Contractions",
+      "do": "Use them: we're, it's, you'll.",
+      "dont": "Stiff phrasing: we are pleased to inform you."
+    },
+    {
+      "rule": "Be specific",
+      "do": "Concrete details: the number, the place, the time.",
+      "dont": "Vague praise: fast, reliable, quality."
+    },
+    {
+      "rule": "Talk to one person",
+      "do": "Write to you: you'll see the difference in a week.",
+      "dont": "Talk about customers: customers may see results."
+    },
+    {
+      "rule": "Name the customer's problem",
+      "do": "Start from their problem, in their words.",
+      "dont": "Start from us: our innovative formula."
+    },
+    {
+      "rule": "Plain words over jargon",
+      "do": "Words a customer would use out loud.",
+      "dont": "Industry terms they'd have to look up."
+    },
+    {
+      "rule": "Active voice",
+      "do": "Say who did it: we fixed the bug.",
+      "dont": "Hide who did it: the bug has been resolved."
+    },
+    {
+      "rule": "Short sentences",
+      "do": "One idea per sentence.",
+      "dont": "Sentences that carry three ideas at once."
+    },
+    {
+      "rule": "Exclamation marks",
+      "do": "One at most, and only when it's earned.",
+      "dont": "Big news!!!"
+    },
+    {
+      "rule": "Emoji",
+      "do": "Only when they add meaning, 2 at most.",
+      "dont": "An emoji after every line."
+    },
+    {
+      "rule": "Hashtags",
+      "do": "3 at most, specific to the topic.",
+      "dont": "A wall of hashtags."
+    },
+    {
+      "rule": "Numbers",
+      "do": "Digits: 3 steps, 40% less.",
+      "dont": "Vague amounts: a few steps, much less."
+    },
+    {
+      "rule": "Claims and promises",
+      "do": "Say what we tested and how.",
+      "dont": "Promise results we can't show: proven, guaranteed."
+    },
+    {
+      "rule": "Prices and offers",
+      "do": "The price and what's included, up front.",
+      "dont": "A from-price, with the catch in small print."
+    },
+    {
+      "rule": "Competitors",
+      "do": "Compare on facts, or not at all.",
+      "dont": "Naming or mocking competitors."
+    },
+    {
+      "rule": "Humour",
+      "do": "Light, and about the situation.",
+      "dont": "Jokes at the customer's expense."
+    },
+    {
+      "rule": "Calls to action",
+      "do": "One clear next step.",
+      "dont": "Three different asks in one post."
+    },
+    {
+      "rule": "Headlines",
+      "do": "Sentence case: How we make it.",
+      "dont": "Title Case: How We Make It."
+    },
+    {
+      "rule": "Spelling",
+      "do": "British English, always: colour, organise.",
+      "dont": "Mixing colour and color."
+    },
+    {
+      "rule": "Inclusive language",
+      "do": "Everyone, people, team.",
+      "dont": "Guys, manpower."
+    },
+    {
+      "rule": "Urgency",
+      "do": "Real deadlines only: ends Sunday.",
+      "dont": "Pressure that isn't true: only a few left!!!"
+    },
+    {
+      "rule": "Slang",
+      "do": "Everyday words our customers use.",
+      "dont": "Trendy slang we'd never say out loud."
+    }
+  ],
+  "ban_list_packs": [
+    {
+      "pack": "AI cliches",
+      "on_by_default": true,
+      "entries": [
+        {
+          "ban": "unleash",
+          "use_instead": "start, let"
+        },
+        {
+          "ban": "unlock",
+          "use_instead": "open, start"
+        },
+        {
+          "ban": "harness",
+          "use_instead": "use"
+        },
+        {
+          "ban": "delve",
+          "use_instead": "look at"
+        },
+        {
+          "ban": "elevate",
+          "use_instead": "improve"
+        },
+        {
+          "ban": "empower",
+          "use_instead": "help, let"
+        },
+        {
+          "ban": "game-changer",
+          "use_instead": "say what changed"
+        },
+        {
+          "ban": "revolutionary",
+          "use_instead": "new, and say how"
+        },
+        {
+          "ban": "cutting-edge",
+          "use_instead": "new"
+        },
+        {
+          "ban": "in today's fast-paced world",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "synergy",
+          "use_instead": "say what works together"
+        },
+        {
+          "ban": "leverage",
+          "use_instead": "use"
+        },
+        {
+          "ban": "dive deep",
+          "use_instead": "look closely"
+        },
+        {
+          "ban": "seamless",
+          "use_instead": "say what's easy"
+        },
+        {
+          "ban": "supercharge",
+          "use_instead": "speed up"
+        }
+      ]
+    },
+    {
+      "pack": "Corporate jargon",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "circle back",
+          "use_instead": "follow up"
+        },
+        {
+          "ban": "touch base",
+          "use_instead": "talk"
+        },
+        {
+          "ban": "best-in-class",
+          "use_instead": "say what's better"
+        },
+        {
+          "ban": "value-add",
+          "use_instead": "say what it adds"
+        },
+        {
+          "ban": "move the needle",
+          "use_instead": "say how much it changes"
+        },
+        {
+          "ban": "paradigm shift",
+          "use_instead": "change"
+        },
+        {
+          "ban": "low-hanging fruit",
+          "use_instead": "quick win"
+        },
+        {
+          "ban": "holistic",
+          "use_instead": "say what's included"
+        },
+        {
+          "ban": "robust",
+          "use_instead": "strong, and say how"
+        },
+        {
+          "ban": "solutions",
+          "use_instead": "say what it does"
+        },
+        {
+          "ban": "going forward",
+          "use_instead": "from now"
+        },
+        {
+          "ban": "bandwidth",
+          "use_instead": "time"
+        }
+      ]
+    },
+    {
+      "pack": "Hype words",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "world-class",
+          "use_instead": "say who rates it"
+        },
+        {
+          "ban": "best ever",
+          "use_instead": "say what's better"
+        },
+        {
+          "ban": "amazing",
+          "use_instead": "be specific"
+        },
+        {
+          "ban": "incredible",
+          "use_instead": "be specific"
+        },
+        {
+          "ban": "unbelievable",
+          "use_instead": "be specific"
+        },
+        {
+          "ban": "ultimate",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "must-have",
+          "use_instead": "say why they'd want it"
+        },
+        {
+          "ban": "life-changing",
+          "use_instead": "say what changes"
+        },
+        {
+          "ban": "next-level",
+          "use_instead": "say what's better"
+        },
+        {
+          "ban": "mind-blowing",
+          "use_instead": "be specific"
+        }
+      ]
+    },
+    {
+      "pack": "Filler phrases",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "it's important to note that",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "at the end of the day",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "in order to",
+          "use_instead": "to"
+        },
+        {
+          "ban": "needless to say",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "when it comes to",
+          "use_instead": "for, about"
+        },
+        {
+          "ban": "it goes without saying",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "the fact that",
+          "use_instead": "that"
+        },
+        {
+          "ban": "very",
+          "use_instead": "a stronger word"
+        },
+        {
+          "ban": "really",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "basically",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "literally",
+          "use_instead": "cut it"
+        }
+      ]
+    },
+    {
+      "pack": "Pushy sales lines",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "act now",
+          "use_instead": "say why now"
+        },
+        {
+          "ban": "don't miss out",
+          "use_instead": "say what they get"
+        },
+        {
+          "ban": "limited time only",
+          "use_instead": "say the end date"
+        },
+        {
+          "ban": "buy now",
+          "use_instead": "one clear next step"
+        },
+        {
+          "ban": "once in a lifetime",
+          "use_instead": "say what's rare"
+        },
+        {
+          "ban": "you won't believe",
+          "use_instead": "say it"
+        },
+        {
+          "ban": "hurry",
+          "use_instead": "say the deadline"
+        },
+        {
+          "ban": "100% guaranteed",
+          "use_instead": "say what's covered"
+        },
+        {
+          "ban": "risk-free",
+          "use_instead": "say the refund terms"
+        },
+        {
+          "ban": "no-brainer",
+          "use_instead": "say why it's worth it"
+        }
+      ]
+    },
+    {
+      "pack": "Beauty and skincare claims",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "miracle",
+          "use_instead": "say what it does"
+        },
+        {
+          "ban": "flawless",
+          "use_instead": "even, smooth"
+        },
+        {
+          "ban": "chemical-free",
+          "use_instead": "say what's in it"
+        },
+        {
+          "ban": "clean beauty",
+          "use_instead": "name what you leave out"
+        },
+        {
+          "ban": "detox",
+          "use_instead": "say what it does"
+        },
+        {
+          "ban": "clinically proven",
+          "use_instead": "say what was tested and how"
+        },
+        {
+          "ban": "dermatologist approved",
+          "use_instead": "name the test"
+        },
+        {
+          "ban": "instant results",
+          "use_instead": "say when people see a change"
+        },
+        {
+          "ban": "non-toxic",
+          "use_instead": "say what's in it"
+        },
+        {
+          "ban": "anti-ageing cure",
+          "use_instead": "say what it does for skin"
+        }
+      ]
+    },
+    {
+      "pack": "Food and drink",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "mouth-watering",
+          "use_instead": "describe the taste"
+        },
+        {
+          "ban": "to die for",
+          "use_instead": "describe the taste"
+        },
+        {
+          "ban": "guilt-free",
+          "use_instead": "say what's in it"
+        },
+        {
+          "ban": "authentic",
+          "use_instead": "say where the recipe comes from"
+        },
+        {
+          "ban": "artisanal",
+          "use_instead": "say who makes it and how"
+        },
+        {
+          "ban": "delectable",
+          "use_instead": "describe the taste"
+        },
+        {
+          "ban": "superfood",
+          "use_instead": "name the ingredient"
+        },
+        {
+          "ban": "farm to table",
+          "use_instead": "name the farm"
+        },
+        {
+          "ban": "healthy",
+          "use_instead": "say what's in it"
+        },
+        {
+          "ban": "best in town",
+          "use_instead": "say what makes it different"
+        }
+      ]
+    },
+    {
+      "pack": "Tech and software",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "disruptive",
+          "use_instead": "say what it changes"
+        },
+        {
+          "ban": "AI-powered",
+          "use_instead": "say what it does"
+        },
+        {
+          "ban": "next-generation",
+          "use_instead": "new, and say how"
+        },
+        {
+          "ban": "frictionless",
+          "use_instead": "say what's easy"
+        },
+        {
+          "ban": "scalable",
+          "use_instead": "say what grows"
+        },
+        {
+          "ban": "end-to-end",
+          "use_instead": "say what's included"
+        },
+        {
+          "ban": "turnkey",
+          "use_instead": "say how long setup takes"
+        },
+        {
+          "ban": "plug and play",
+          "use_instead": "say how long setup takes"
+        },
+        {
+          "ban": "state of the art",
+          "use_instead": "new, and say how"
+        },
+        {
+          "ban": "intuitive",
+          "use_instead": "show it"
+        }
+      ]
+    },
+    {
+      "pack": "Finance and property",
+      "on_by_default": false,
+      "entries": [
+        {
+          "ban": "guaranteed returns",
+          "use_instead": "say what's guaranteed"
+        },
+        {
+          "ban": "risk-free investment",
+          "use_instead": "say the risks"
+        },
+        {
+          "ban": "get rich",
+          "use_instead": "cut it"
+        },
+        {
+          "ban": "passive income",
+          "use_instead": "say what it involves"
+        },
+        {
+          "ban": "dream home",
+          "use_instead": "describe it"
+        },
+        {
+          "ban": "prime location",
+          "use_instead": "name what's nearby"
+        },
+        {
+          "ban": "rare opportunity",
+          "use_instead": "say what's rare"
+        },
+        {
+          "ban": "exclusive deal",
+          "use_instead": "say who it's for"
+        },
+        {
+          "ban": "financial freedom",
+          "use_instead": "say the outcome"
+        },
+        {
+          "ban": "won't last",
+          "use_instead": "say the end date"
+        }
+      ]
+    }
+  ],
+  "test_prompts": [
+    "Announce a new product or feature",
+    "Reply to an unhappy customer",
+    "Share a tip our customers can use today",
+    "Behind the scenes: how we make it",
+    "Promote an offer with a real end date",
+    "Tell a customer's story, with their permission",
+    "Answer a question people often ask us",
+    "Welcome email for a new subscriber",
+    "A mistake we made, and how we fixed it",
+    "Explain our price"
+  ]
+}
