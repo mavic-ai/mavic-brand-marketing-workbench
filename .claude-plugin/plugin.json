@@ -1,7 +1,7 @@
 {
   "name": "mavic-brand-marketing-workbench",
-  "description": "Brand marketing skills that read a brand's workbench: brand voice check first, more with each toolkit.",
-  "version": "0.1.0",
+  "description": "Brand marketing skills that read a brand's workbench: brand voice check and a 2027 content calendar planner built on a curated master list of social media holidays.",
+  "version": "0.2.0",
   "author": {
     "name": "Mavic",
     "url": "https://mavic.ai"
@@ -12,7 +12,11 @@
     "brand marketing",
     "brand voice",
     "style guide",
-    "content"
+    "content",
+    "content calendar",
+    "social media calendar",
+    "social media holidays 2027",
+    "awareness days"
   ],
   "repository": "https://github.com/mavic-ai/mavic-brand-marketing-workbench"
 }

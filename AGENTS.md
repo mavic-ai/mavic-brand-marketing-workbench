@@ -5,7 +5,8 @@ This repository teaches brand marketing and gives you files to work from. Use it
 1. **Learn:** `toolkits/<module>/README.md` explains one idea and its method. `sources.md` holds the source for every claim.
 2. **Fill:** a brand's answers live in `workbenches/` (for example `workbenches/brand-dna/brand-book.md`). Keep the headings exactly as they are. If the user has no workbench yet, help them fill one with the toolkit's `worksheet.md` and `presets.md`. Never make up a brand's voice, facts or customers.
 3. **Run:** `skills/<skill>/SKILL.md` does one job by reading the workbench. Each skill has evals on a fictional demo brand in `evals/`.
-4. **Show:** `video/formats/` describes the explainer and how-to formats; `video/capture/` and `video/examples/` are worked examples.
+4. **Plan a year of posts:** read `toolkits/06-content-calendar/2027-social-media-holidays-master-list.md` (or `.json`) and use `skills/content-calendar-planner/`. Only moments on that list count as social media holidays; public and religious holidays are left to the user's calendar.
+5. **Show:** `video/formats/` describes the explainer and how-to formats; `video/capture/` and `video/examples/` are worked examples.
 
 ## House rules
 

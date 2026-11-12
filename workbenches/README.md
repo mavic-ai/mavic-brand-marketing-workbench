@@ -6,13 +6,13 @@ A workbench holds one brand's answers. Toolkits ask the questions; you put the a
 | --- | --- | --- |
 | `brand-dna/brand-book.md` | Who we are, personality, do and don't rules, tone by channel, ban list | Toolkit 02 (brand voice) |
 | `brand-dna/` (more files to come) | Products and services, customer profiles, templates | Toolkits 01, 03 and 05 |
-| `content-plan/` (to come) | Content mix and a 30-day calendar | Toolkit 06 |
+| `content-plan/plan-2027.md` | Rhythm, themes, the 2027 moments we join (with fit scores), month by month, ideas per channel and a paste pack | Toolkit 06 (content calendar) |
 | `schema/` (to come) | A JSON schema so an AI can check a workbench is complete | |
 | `examples/` | Filled-in workbenches for fictional demo brands | |
 
 ## How to use it
 
-1. Copy `brand-dna/` into your own project (or fork this repo).
+1. Copy `brand-dna/` and `content-plan/` into your own project (or fork this repo).
 2. Fill each file with the matching toolkit's worksheet. Keep the headings exactly as they are: skills look for them.
 3. Point any AI tool or skill at the folder.
 
@@ -20,5 +20,5 @@ The structure mirrors Brand DNA in [Mavic](https://mavic.ai/?utm_source=github&u
 
 ## Demo brands (fictional)
 
-- `examples/kopi-corner/`: a Singapore coffee shop. Used for the brand voice toolkit and the `brand-voice-check` evals.
+- `examples/kopi-corner/`: a Singapore coffee shop. Brand book and 2027 content plan. Used for the brand voice and content calendar toolkits and the evals for `brand-voice-check` and `content-calendar-planner`.
 - `examples/bloom-skin/`: a sensitive-skin skincare brand. Used for screen recordings in the how-to videos.

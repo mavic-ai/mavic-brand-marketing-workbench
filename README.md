@@ -20,13 +20,15 @@ video/        SHOW    explainer and how-to formats, briefs and templates
 2. Put your answers in `workbenches/brand-dna/brand-book.md`. See `workbenches/examples/kopi-corner/` for a finished one.
 3. Install the `brand-voice-check` skill and ask it to check your next post.
 
+Planning 2027? Start with the [Master List of 2027 Social Media Holidays](toolkits/06-content-calendar/2027-social-media-holidays-master-list.md): 45 moments with a social movement behind them, and a fit test to pick the few that are yours. Then run the `content-calendar-planner` skill to write your year.
+
 ## What's here
 
 | Module | Toolkit | Workbench | Skill | Video |
 | --- | --- | --- | --- | --- |
 | 01 What is a brand | Brand DNA Scorecard | `brand-dna/` (to come) | brand-dna-builder (to come) | Explainer: What is a brand? |
 | 02 Brand voice | `toolkits/02-brand-voice/` | `brand-dna/brand-book.md` | `skills/brand-voice-check/` | How-to: How to make AI sound like your brand |
-| 06 Content calendar | 30-Day Content Calendar | `content-plan/` (to come) | content-calendar-planner (to come) | In production |
+| 06 Content calendar | `toolkits/06-content-calendar/`: Master List of 2027 Social Media Holidays + Content Planner | `content-plan/plan-2027.md` | `skills/content-calendar-planner/` | How-to: in production |
 
 Video formats and templates: `video/formats/` (explainer, how-to), `video/capture/` (a full screen recording brief), `video/remotion/paper-explainer/` (Remotion source), `video/examples/mavic/` (real episode packs).
 

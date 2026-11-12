@@ -1,0 +1,566 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mavic//2027 Social Media Holidays//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2027 Social Media Holidays (Mavic)
+X-WR-CALDESC:Curated: only moments with a social movement behind them. mavic.ai/toolkits
+BEGIN:VEVENT
+UID:dry-january-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:Dry January #DryJanuary
+DESCRIPTION:A month off alcohol. The ask: Go alcohol-free for January. Or
+ ganiser: Alcohol Change UK. Join only if you offer alcohol-free options o
+ r support people taking part. Watch out: Alcohol brands should sit this o
+ ut. No health claims. https://alcoholchange.org.uk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:veganuary-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:Veganuary #Veganuary
+DESCRIPTION:Plant-based eating. The ask: Try vegan for January. Organiser
+ : Veganuary (charity). Join only if you sell or make plant-based products
+ \, or your team is genuinely taking part. Watch out: No health claims you
+  can't prove. Don't call a product vegan unless it is. https://veganuary.
+ com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:education-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:International Day of Education #EducationDay
+DESCRIPTION:Education as a human right. The ask: Support access to learni
+ ng. Organiser: United Nations (UNESCO leads). Join only if you teach\, fu
+ nd learning or make learning tools. Watch out: Avoid making it a sales po
+ st. https://www.un.org/en/observances/education-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-history-month-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270301
+SUMMARY:Black History Month (US) #BlackHistoryMonth
+DESCRIPTION:Black history and achievement. The ask: Learn\, celebrate and
+  support Black communities. Organiser: Theme set by ASALH\, the Associati
+ on for the Study of African American Life and History. Join only if you c
+ an show real support beyond February: partners\, suppliers\, giving\, peo
+ ple. Watch out: Tokenism backfires. No logo-only posts. Watch the US poli
+ tical climate and keep the focus on people. https://asalh.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:safer-internet-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Safer Internet Day #SaferInternetDay
+DESCRIPTION:A safer\, better internet\, especially for young people. The 
+ ask: Learn and share online safety habits. Organiser: Insafe network for 
+ the European Commission\, with national centres such as eSafety (AU) and 
+ Netsafe (NZ). Join only if you build or run something people use online. 
+ Watch out: Don't overstate your security. Point to official guidance. htt
+ ps://better-internet-for-kids.europa.eu/en/events/safer-internet-day-sid-
+ 2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zero-discrimination-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Zero Discrimination Day #ZeroDiscrimination
+DESCRIPTION:Equality before the law and in practice. The ask: Speak up ag
+ ainst discrimination. Organiser: UNAIDS. Join only if your policies back 
+ up what you post. Watch out: Words without policies read as empty. https:
+ //www.unaids.org/en/zero-discrimination-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-wildlife-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:World Wildlife Day #WorldWildlifeDay
+DESCRIPTION:Wild animals and plants. The ask: Learn about and protect wil
+ dlife. Organiser: United Nations (CITES secretariat). Join only if you wo
+ rk with or near nature\, or fund conservation. Watch out: Avoid claims of
+  impact you can't measure. https://www.un.org/en/observances/world-wildli
+ fe-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:clean-up-australia-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Clean Up Australia Day #CleanUpAustraliaDay
+DESCRIPTION:Rubbish-free places. The ask: Register or join a local clean-
+ up. Organiser: Clean Up Australia. Join only if your team will actually t
+ urn up and clean up. Watch out: Show the work\, not the logo. https://www
+ .cleanup.org.au
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-womens-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:International Women's Day #IWD2027
+DESCRIPTION:Women's rights and gender equality. The ask: Celebrate women 
+ and act for equality. Organiser: United Nations (UN Women)\, with the int
+ ernationalwomensday.com campaign. Join only if you can show women in your
+  business\, customers or supply chain\, and what you're doing for equalit
+ y. Watch out: Quote cards without action get called out. Check claims abo
+ ut pay and representation. https://www.un.org/en/observances/womens-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-day-of-happiness-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:International Day of Happiness #InternationalDayOfHappiness
+DESCRIPTION:Wellbeing and happiness as a goal. The ask: Do one thing that
+  makes someone happier. Organiser: United Nations\, with Action for Happi
+ ness. Join only if you can add something useful\, not just a smile. Watch
+  out: Avoid mental health claims. https://www.un.org/en/observances/happi
+ ness-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-water-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:World Water Day #WorldWaterDay
+DESCRIPTION:Fresh water and sanitation. The ask: Use less and protect wat
+ er. Organiser: UN-Water. Join only if water use is part of your business.
+  Watch out: Back water-saving claims with numbers. https://www.un.org/en/
+ observances/water-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:earth-hour-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Earth Hour #EarthHour
+DESCRIPTION:Climate and nature. The ask: Switch off non-essential lights 
+ for an hour. Organiser: WWF. Join only if you will actually switch off (s
+ igns\, stores\, office) and can show it. Watch out: Switching off for an 
+ hour isn't a climate strategy. Say what else you do. https://www.earthhou
+ r.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-health-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:World Health Day #WorldHealthDay
+DESCRIPTION:Health for all. The ask: Take one step for your health or oth
+ ers'. Organiser: World Health Organization. Join only if you have a healt
+ h role and can stay within regulated claims. Watch out: Health claims are
+  regulated. Stay general and point to official advice. https://www.who.in
+ t/campaigns/world-health-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:earth-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Earth Day #EarthDay
+DESCRIPTION:Environmental protection. 2027 theme: Food for Our Planet (pl
+ ant-based diets and food labels). The ask: Take one action for the planet
+ \, this year on food. Organiser: EARTHDAY.ORG (UN: International Mother E
+ arth Day). Join only if you can point to a real change in how you source\
+ , make or package. Watch out: Greenwashing. Every green claim needs proof
+ . https://www.earthday.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fashion-revolution-week-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Fashion Revolution Week #WhoMadeMyClothes
+DESCRIPTION:A fair\, transparent fashion industry\; marks the Rana Plaza 
+ collapse (24 Apr 2013). The ask: Ask brands #WhoMadeMyClothes\; mend and 
+ rewear. Organiser: Fashion Revolution. Join only if you can answer who ma
+ de your clothes\, by name or by factory. Watch out: If you can't answer t
+ he question\, don't ask it. Dates for 2027 not yet announced\; the UK HQ 
+ closed in 2026 and the movement now runs through its global network. http
+ s://www.fashionrevolution.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mental-health-awareness-month-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270601
+SUMMARY:Mental Health Awareness Month (US) #MentalHealthMonth
+DESCRIPTION:Mental health awareness and access to care. The ask: Talk abo
+ ut it\, check in\, find support. Organiser: Mental Health America. Join o
+ nly if you support\, not sell: you have a policy\, a resource or a partne
+ r to share. Watch out: Support\, don't sell. No therapeutic claims. Alway
+ s link official services. https://mhanational.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-bee-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:World Bee Day #WorldBeeDay
+DESCRIPTION:Pollinators and food security. The ask: Protect bees and poll
+ inators. Organiser: United Nations (FAO). Join only if your product or pl
+ ace depends on pollinators. Watch out: Avoid claims of 'saving the bees'.
+  https://www.fao.org/world-bee-day/en
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:biodiversity-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:International Day for Biological Diversity #BiodiversityDay
+DESCRIPTION:Nature and biodiversity. The ask: Learn about and protect loc
+ al nature. Organiser: United Nations (Convention on Biological Diversity)
+ . Join only if your business touches land\, sea or supply chains in natur
+ e. Watch out: Back claims with specifics. https://www.un.org/en/observanc
+ es/biological-diversity-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-no-tobacco-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:World No Tobacco Day #WorldNoTobaccoDay
+DESCRIPTION:Tobacco control. The ask: Quit\, or support someone quitting.
+  Organiser: World Health Organization. Join only if you have a health or 
+ workplace role. Watch out: Stay with official health guidance. https://ww
+ w.who.int/campaigns/world-no-tobacco-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pride-month-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270701
+SUMMARY:Pride Month #Pride
+DESCRIPTION:LGBTQ+ equality and visibility. The ask: Celebrate\, support 
+ and show up for LGBTQ+ people. Organiser: Local Pride organisations (majo
+ r events in some markets fall in other months). Join only if you support 
+ LGBTQ+ people all year: policies\, partners\, giving\, people. Watch out:
+  Rainbow-washing gets called out. Check local rules and norms for each ma
+ rket before you post. 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-environment-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:World Environment Day #WorldEnvironmentDay
+DESCRIPTION:Environmental action\; host country and theme set each year. 
+ The ask: Take part in the year's campaign. Organiser: UN Environment Prog
+ ramme. Join only if you can show a change you've made. Watch out: Check t
+ he 2027 theme when UNEP announces it. https://www.worldenvironmentday.glo
+ bal
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-oceans-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:World Oceans Day #WorldOceansDay
+DESCRIPTION:Healthy oceans. The ask: Act for the ocean. Organiser: United
+  Nations. Join only if your business touches the sea\, seafood or plastic
+ . Watch out: Seafood sourcing claims need certification. https://www.un.o
+ rg/en/observances/oceans-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-refugee-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:World Refugee Day #WithRefugees
+DESCRIPTION:People forced to flee. The ask: Stand with refugees. Organise
+ r: UNHCR. Join only if you employ\, partner with or fund refugee-led work
+ . Watch out: Never use people's stories without consent. Keep it about pe
+ ople\, not politics. https://www.un.org/en/observances/refugee-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dry-july-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:Dry July #DryJuly
+DESCRIPTION:Raising funds for people affected by cancer by going alcohol-
+ free. The ask: Go alcohol-free for July and raise funds. Organiser: Dry J
+ uly Foundation. Join only if your team or venue takes part or offers alco
+ hol-free options. Watch out: Alcohol brands should sit this out. Be exact
+  about where funds go. https://www.dryjuly.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:plastic-free-july-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:Plastic Free July #PlasticFreeJuly
+DESCRIPTION:Less plastic waste. The ask: Choose to refuse single-use plas
+ tic for July. Organiser: Plastic Free Foundation. Join only if you've cut
+  plastic or offer a real alternative. Watch out: 'Plastic-free' claims mu
+ st be true for the whole product and pack. https://www.plasticfreejuly.or
+ g
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:naidoc-week-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270712
+SUMMARY:NAIDOC Week #NAIDOCWeek
+DESCRIPTION:Celebrating the history\, culture and achievements of Aborigi
+ nal and Torres Strait Islander peoples. The ask: Learn\, attend local eve
+ nts\, celebrate. Organiser: National NAIDOC Committee. Join only if you h
+ ave a genuine relationship with Aboriginal and Torres Strait Islander peo
+ ple or organisations. Watch out: Follow NAIDOC's guidelines on the theme 
+ and logo. Never use cultural material without permission. Dates are preli
+ minary. https://www.naidoc.org.au
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-youth-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:International Youth Day #YouthDay
+DESCRIPTION:Young people's voice and opportunity. The ask: Give young peo
+ ple a platform. Organiser: United Nations. Join only if you hire\, train 
+ or serve young people. Watch out: Avoid stereotypes about generations. ht
+ tps://www.un.org/en/observances/youth-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-humanitarian-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:World Humanitarian Day #WorldHumanitarianDay
+DESCRIPTION:Aid workers and people in crisis. The ask: Recognise and supp
+ ort humanitarian work. Organiser: UN OCHA. Join only if you support human
+ itarian work in a concrete way. Watch out: Never use crisis imagery to se
+ ll. https://www.un.org/en/observances/humanitarian-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-day-of-charity-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:International Day of Charity #CharityDay
+DESCRIPTION:Giving and volunteering. The ask: Give time or money to a cau
+ se. Organiser: United Nations. Join only if you give\, and can show it. W
+ atch out: Be exact about amounts and where money goes. https://www.un.org
+ /en/observances/charity-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-literacy-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:International Literacy Day #LiteracyDay
+DESCRIPTION:Literacy for all. The ask: Read\, teach\, donate books. Organ
+ iser: UNESCO. Join only if you make\, sell or support reading. Watch out:
+  Keep it practical. https://www.unesco.org/en/days/literacy
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-cleanup-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:World Cleanup Day #WorldCleanupDay
+DESCRIPTION:Waste and litter. The ask: Join a local clean-up. Organiser: 
+ UN (UN-Habitat facilitates)\, with the Let's Do It World movement. Join o
+ nly if your team will take part. Watch out: Show the work\, not the logo.
+  https://www.un.org/en/observances/cleanup-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-day-of-peace-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:International Day of Peace #PeaceDay
+DESCRIPTION:Peace and non-violence. The ask: Take a moment for peace. Org
+ aniser: United Nations. Join only if you have something meaningful to add
+ . Watch out: Keep it non-political and sincere. https://www.un.org/en/obs
+ ervances/international-day-peace
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:breast-cancer-awareness-month-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:Breast Cancer Awareness Month #BreastCancerAwarenessMonth
+DESCRIPTION:Breast cancer awareness\, screening and research. The ask: Ge
+ t checked\, give\, support. Organiser: Breast cancer charities in each ma
+ rket (for example the National Breast Cancer Foundation in Australia). Jo
+ in only if you give to a named charity and can say how much and how. Watc
+ h out: 'Pinkwashing' gets called out. Say exactly what you give. No healt
+ h claims. 
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-day-of-older-persons-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:International Day of Older Persons #OlderPersonsDay
+DESCRIPTION:Older people's rights and contribution. The ask: Value and in
+ clude older people. Organiser: United Nations. Join only if you serve or 
+ employ older people. Watch out: Avoid stereotypes. https://www.un.org/en/
+ observances/older-persons-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-teachers-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:World Teachers' Day #WorldTeachersDay
+DESCRIPTION:Teachers and teaching. The ask: Thank a teacher. Organiser: U
+ NESCO. Join only if you work with or for teachers. Watch out: Singapore m
+ arks its own Teachers' Day in September (a school holiday in Mavic's Holi
+ days panel). https://www.unesco.org/en/days/teachers
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-mental-health-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:World Mental Health Day #WorldMentalHealthDay
+DESCRIPTION:Mental health for all. The ask: Talk\, check in\, find suppor
+ t. Organiser: World Federation for Mental Health (UN observance). Join on
+ ly if you support\, not sell: you have a policy\, resource or partner to 
+ share. Watch out: Support\, don't sell. No therapeutic claims. Always lin
+ k official services. https://www.who.int/mental_health/world-mental-healt
+ h-day/en/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-food-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:World Food Day #WorldFoodDay
+DESCRIPTION:Food security and better food systems. The ask: Waste less\, 
+ share more\, support food security. Organiser: Food and Agriculture Organ
+ ization (FAO). Join only if food is your business. Watch out: Back sourci
+ ng and waste claims with numbers. https://www.fao.org/world-food-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:end-poverty-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:International Day for the Eradication of Poverty #EndPoverty
+DESCRIPTION:Ending poverty. The ask: Support people living in poverty. Or
+ ganiser: United Nations. Join only if you have a concrete programme or pa
+ rtner. Watch out: Never use poverty imagery to sell. https://www.un.org/e
+ n/observances/day-for-eradicating-poverty
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:movember-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271201
+SUMMARY:Movember #Movember
+DESCRIPTION:Men's health: mental health\, prostate and testicular cancer.
+  The ask: Grow a moustache\, move\, host\, give. Organiser: Movember. Joi
+ n only if your team takes part or you give to Movember. Watch out: Link M
+ ovember's resources for health topics. Be exact about donations. https://
+ movember.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-kindness-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:World Kindness Day #WorldKindnessDay
+DESCRIPTION:Kindness in everyday life. The ask: Do one kind thing. Organi
+ ser: World Kindness Movement. Join only if you can do something kind\, no
+ t just post about it. Watch out: Don't make kindness transactional ('buy 
+ one to be kind'). https://theworldkindnessmovement.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:givingtuesday-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:GivingTuesday #GivingTuesday
+DESCRIPTION:Generosity\, after the shopping days. The ask: Give\, volunte
+ er\, or share a cause. Organiser: GivingTuesday. Join only if you give\, 
+ and can show it. Watch out: Be exact about matches\, caps and where money
+  goes. https://www.givingtuesday.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:disability-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:International Day of Persons with Disabilities #IDPD
+DESCRIPTION:Inclusion and accessibility. The ask: Make things more access
+ ible. Organiser: United Nations. Join only if you've made something more 
+ accessible\, or are working on it. Watch out: Nothing about us without us
+ : involve disabled people. https://www.un.org/en/observances/day-of-perso
+ ns-with-disabilities
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-volunteer-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
+SUMMARY:International Volunteer Day #IVD
+DESCRIPTION:Volunteering. The ask: Give your time. Organiser: UN Voluntee
+ rs. Join only if your team volunteers. Watch out: Show the work. https://
+ www.un.org/en/observances/volunteer-day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:human-rights-day-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:Human Rights Day #HumanRightsDay
+DESCRIPTION:Universal human rights. The ask: Stand up for rights. Organis
+ er: UN Human Rights (OHCHR). Join only if your practices back it up (fair
+  work\, supply chain). Watch out: Avoid taking political sides\; keep to 
+ your own practice. https://www.un.org/en/observances/human-rights-day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
