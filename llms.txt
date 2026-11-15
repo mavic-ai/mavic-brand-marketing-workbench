@@ -21,6 +21,7 @@
 - toolkits/06-content-calendar/channel-guide.md: character limits and what tends to work on each channel
 - toolkits/06-content-calendar/worksheet.md: fill-in worksheet
 - toolkits/06-content-calendar/sources.md: sources for every date, organiser and limit
+- toolkits/channel-mastery/instagram-searchability/instagram-searchability-checklist.md: checklist for making an Instagram account and its posts easier to find in search (labelled confirmed, reported, practice, unconfirmed)
 - toolkits/_build/: scripts that generate the workbooks and export the presets
 
 ## Workbenches
