@@ -122,6 +122,19 @@ DESCRIPTION:Women's rights and gender equality. The ask: Celebrate women
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:earth-hour-2027@mavic.ai
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Earth Hour #EarthHour
+DESCRIPTION:Climate and nature. The ask: Switch off non-essential lights 
+ for an hour. Organiser: WWF. Join only if you will actually switch off (s
+ igns\, stores\, office) and can show it. Watch out: Switching off for an 
+ hour isn't a climate strategy. Say what else you do. https://www.earthhou
+ r.org
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:international-day-of-happiness-2027@mavic.ai
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270320
@@ -144,19 +157,6 @@ DESCRIPTION:Fresh water and sanitation. The ask: Use less and protect wat
  er. Organiser: UN-Water. Join only if water use is part of your business.
   Watch out: Back water-saving claims with numbers. https://www.un.org/en/
  observances/water-day
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:earth-hour-2027@mavic.ai
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270328
-SUMMARY:Earth Hour #EarthHour
-DESCRIPTION:Climate and nature. The ask: Switch off non-essential lights 
- for an hour. Organiser: WWF. Join only if you will actually switch off (s
- igns\, stores\, office) and can show it. Watch out: Switching off for an 
- hour isn't a climate strategy. Say what else you do. https://www.earthhou
- r.org
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +271,11 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:World Environment Day #WorldEnvironmentDay
-DESCRIPTION:Environmental action\; host country and theme set each year. 
- The ask: Take part in the year's campaign. Organiser: UN Environment Prog
- ramme. Join only if you can show a change you've made. Watch out: Check t
- he 2027 theme when UNEP announces it. https://www.worldenvironmentday.glo
- bal
+DESCRIPTION:Environmental action\; 2027 host Serbia\, theme Play for Huma
+ nity: Sport and Music for All. The ask: Take part in the year's campaign.
+  Organiser: UN Environment Programme. Join only if you can show a change 
+ you've made. Watch out: Tie your post to the 2027 theme only if you have 
+ a real link to it. https://www.worldenvironmentday.global
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

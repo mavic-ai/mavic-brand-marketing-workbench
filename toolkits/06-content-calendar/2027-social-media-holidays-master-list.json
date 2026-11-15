@@ -1,7 +1,7 @@
 {
  "title": "Master List of 2027 Social Media Holidays",
  "version": "1.0",
- "checked": "2026-11-12",
+ "checked": "2026-11-15",
  "publisher": "Mavic (mavic.ai)",
  "licence": "CC BY 4.0",
  "curation_rule": "Only moments with a social movement behind them: a named organiser, real public participation for 3+ years, a clear ask, observed in SG, PH, AU, NZ or US.",
@@ -36,7 +36,7 @@
    "lead_weeks": 6,
    "risk": "Alcohol brands should sit this out. No health claims.",
    "source": "Organiser site",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of January 2027"
   },
   {
@@ -62,7 +62,7 @@
    "lead_weeks": 6,
    "risk": "No health claims you can't prove. Don't call a product vegan unless it is.",
    "source": "Organiser site",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of January 2027"
   },
   {
@@ -88,7 +88,7 @@
    "lead_weeks": 4,
    "risk": "Avoid making it a sales post.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 24 Jan 2027"
   },
   {
@@ -114,7 +114,7 @@
    "lead_weeks": 8,
    "risk": "Tokenism backfires. No logo-only posts. Watch the US political climate and keep the focus on people.",
    "source": "https://asalh.org",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of February 2027"
   },
   {
@@ -140,7 +140,7 @@
    "lead_weeks": 4,
    "risk": "Don't overstate your security. Point to official guidance.",
    "source": "https://better-internet-for-kids.europa.eu/en/events/safer-internet-day-sid-2027",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Tue 9 Feb 2027 (activities run 1 to 28 Feb)"
   },
   {
@@ -166,7 +166,7 @@
    "lead_weeks": 3,
    "risk": "Words without policies read as empty.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Mon 1 Mar 2027"
   },
   {
@@ -192,7 +192,7 @@
    "lead_weeks": 3,
    "risk": "Avoid claims of impact you can't measure.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Wed 3 Mar 2027"
   },
   {
@@ -200,7 +200,7 @@
    "name": "Clean Up Australia Day",
    "start": "2027-03-07",
    "end": "2027-03-07",
-   "date_note": "First Sunday of March; registrations for 2027 opened Nov 2026",
+   "date_note": "Community clean-ups Sun 7 Mar; organiser events also on 2 and 5 Mar",
    "type": "Day",
    "organiser": "Clean Up Australia",
    "url": "https://www.cleanup.org.au",
@@ -217,9 +217,9 @@
    ],
    "lead_weeks": 6,
    "risk": "Show the work, not the logo.",
-   "source": "https://nationaltoday.com/clean-up-australia-day/",
-   "checked": "2026-11-12",
-   "date_display": "Sun 7 Mar 2027 (First Sunday of March; registrations for 2027 opened Nov 2026)"
+   "source": "https://www.cleanup.org.au",
+   "checked": "2026-11-15",
+   "date_display": "Sun 7 Mar 2027 (Community clean-ups Sun 7 Mar; organiser events also on 2 and 5 Mar)"
   },
   {
    "id": "international-womens-day",
@@ -244,8 +244,34 @@
    "lead_weeks": 6,
    "risk": "Quote cards without action get called out. Check claims about pay and representation.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Mon 8 Mar 2027"
+  },
+  {
+   "id": "earth-hour",
+   "name": "Earth Hour",
+   "start": "2027-03-20",
+   "end": "2027-03-20",
+   "date_note": "Organiser date: 8:30 pm local time",
+   "type": "Hour (8:30 to 9:30 pm local)",
+   "organiser": "WWF",
+   "url": "https://www.earthhour.org",
+   "cause": "Climate and nature",
+   "ask": "Switch off non-essential lights for an hour",
+   "hashtag": "#EarthHour",
+   "markets": "SG, PH, AU, NZ, US",
+   "fit": "Hospitality, retail, F&B, offices, venues",
+   "join_only_if": "you will actually switch off (signs, stores, office) and can show it",
+   "angles": [
+    "Your shopfront going dark at 8:30 pm",
+    "What your team does in the dark hour",
+    "One change you're keeping after the hour"
+   ],
+   "lead_weeks": 6,
+   "risk": "Switching off for an hour isn't a climate strategy. Say what else you do.",
+   "source": "https://www.earthhour.org",
+   "checked": "2026-11-15",
+   "date_display": "Sat 20 Mar 2027 (Organiser date: 8:30 pm local time)"
   },
   {
    "id": "international-day-of-happiness",
@@ -270,7 +296,7 @@
    "lead_weeks": 3,
    "risk": "Avoid mental health claims.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sat 20 Mar 2027"
   },
   {
@@ -296,34 +322,8 @@
    "lead_weeks": 4,
    "risk": "Back water-saving claims with numbers.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Mon 22 Mar 2027"
-  },
-  {
-   "id": "earth-hour",
-   "name": "Earth Hour",
-   "start": "2027-03-27",
-   "end": "2027-03-27",
-   "date_note": "Last Saturday of March",
-   "type": "Hour (8:30 to 9:30 pm local)",
-   "organiser": "WWF",
-   "url": "https://www.earthhour.org",
-   "cause": "Climate and nature",
-   "ask": "Switch off non-essential lights for an hour",
-   "hashtag": "#EarthHour",
-   "markets": "SG, PH, AU, NZ, US",
-   "fit": "Hospitality, retail, F&B, offices, venues",
-   "join_only_if": "you will actually switch off (signs, stores, office) and can show it",
-   "angles": [
-    "Your shopfront going dark at 8:30 pm",
-    "What your team does in the dark hour",
-    "One change you're keeping after the hour"
-   ],
-   "lead_weeks": 6,
-   "risk": "Switching off for an hour isn't a climate strategy. Say what else you do.",
-   "source": "https://awareness-days.co.uk/awareness-day/earth-hour/2027-03-27",
-   "checked": "2026-11-12",
-   "date_display": "Sat 27 Mar 2027 (Last Saturday of March)"
   },
   {
    "id": "world-health-day",
@@ -348,7 +348,7 @@
    "lead_weeks": 4,
    "risk": "Health claims are regulated. Stay general and point to official advice.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Wed 7 Apr 2027"
   },
   {
@@ -374,7 +374,7 @@
    "lead_weeks": 8,
    "risk": "Greenwashing. Every green claim needs proof.",
    "source": "https://vegconomist.com/organisations-and-brands/earthday/",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Thu 22 Apr 2027"
   },
   {
@@ -400,7 +400,7 @@
    "lead_weeks": 6,
    "risk": "If you can't answer the question, don't ask it. Dates for 2027 not yet announced; the UK HQ closed in 2026 and the movement now runs through its global network.",
    "source": "https://www.fashioncapital.co.uk/insights/fashion-revolution-closes-uk-hq-but-the-movement-continues-with-2026-campaign/",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sat 24 Apr 2027 (Week around 24 April; 2027 dates TBC by the organiser)"
   },
   {
@@ -426,7 +426,7 @@
    "lead_weeks": 6,
    "risk": "Support, don't sell. No therapeutic claims. Always link official services.",
    "source": "https://mhanational.org",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of May 2027"
   },
   {
@@ -452,7 +452,7 @@
    "lead_weeks": 3,
    "risk": "Avoid claims of 'saving the bees'.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Thu 20 May 2027"
   },
   {
@@ -478,7 +478,7 @@
    "lead_weeks": 3,
    "risk": "Back claims with specifics.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sat 22 May 2027"
   },
   {
@@ -504,7 +504,7 @@
    "lead_weeks": 3,
    "risk": "Stay with official health guidance.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Mon 31 May 2027"
   },
   {
@@ -530,7 +530,7 @@
    "lead_weeks": 8,
    "risk": "Rainbow-washing gets called out. Check local rules and norms for each market before you post.",
    "source": "Organiser sites, by market",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of June 2027"
   },
   {
@@ -538,11 +538,11 @@
    "name": "World Environment Day",
    "start": "2027-06-05",
    "end": "2027-06-05",
-   "date_note": "",
+   "date_note": "2027 host: Serbia (Belgrade)",
    "type": "Day",
    "organiser": "UN Environment Programme",
    "url": "https://www.worldenvironmentday.global",
-   "cause": "Environmental action; host country and theme set each year",
+   "cause": "Environmental action; 2027 host Serbia, theme Play for Humanity: Sport and Music for All",
    "ask": "Take part in the year's campaign",
    "hashtag": "#WorldEnvironmentDay",
    "markets": "SG, PH, AU, NZ, US",
@@ -554,10 +554,10 @@
     "An action customers can take"
    ],
    "lead_weeks": 6,
-   "risk": "Check the 2027 theme when UNEP announces it.",
-   "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
-   "date_display": "Sat 5 Jun 2027"
+   "risk": "Tie your post to the 2027 theme only if you have a real link to it.",
+   "source": "https://www.worldenvironmentday.global",
+   "checked": "2026-11-15",
+   "date_display": "Sat 5 Jun 2027 (2027 host: Serbia (Belgrade))"
   },
   {
    "id": "world-oceans-day",
@@ -582,7 +582,7 @@
    "lead_weeks": 4,
    "risk": "Seafood sourcing claims need certification.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Tue 8 Jun 2027"
   },
   {
@@ -608,7 +608,7 @@
    "lead_weeks": 4,
    "risk": "Never use people's stories without consent. Keep it about people, not politics.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 20 Jun 2027"
   },
   {
@@ -634,7 +634,7 @@
    "lead_weeks": 6,
    "risk": "Alcohol brands should sit this out. Be exact about where funds go.",
    "source": "https://www.dryjuly.com",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of July 2027"
   },
   {
@@ -660,7 +660,7 @@
    "lead_weeks": 6,
    "risk": "'Plastic-free' claims must be true for the whole product and pack.",
    "source": "https://www.plasticfreejuly.org",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of July 2027"
   },
   {
@@ -686,7 +686,7 @@
    "lead_weeks": 8,
    "risk": "Follow NAIDOC's guidelines on the theme and logo. Never use cultural material without permission. Dates are preliminary.",
    "source": "https://www.timeanddate.com/holidays/australia/naidoc-week",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 4 Jul to Sun 11 Jul 2027 (First Sunday in July to the following Sunday (preliminary))"
   },
   {
@@ -712,7 +712,7 @@
    "lead_weeks": 0,
    "risk": "Date depends on the yearly calculation; plan once it's announced. Back every claim.",
    "source": "https://overshoot.footprintnetwork.org/2026-calculation/",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Date announced each year (Announced around June; in 2026 it fell on 30 July)"
   },
   {
@@ -738,7 +738,7 @@
    "lead_weeks": 3,
    "risk": "Avoid stereotypes about generations.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Thu 12 Aug 2027"
   },
   {
@@ -764,7 +764,7 @@
    "lead_weeks": 3,
    "risk": "Never use crisis imagery to sell.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Thu 19 Aug 2027"
   },
   {
@@ -790,7 +790,7 @@
    "lead_weeks": 3,
    "risk": "Be exact about amounts and where money goes.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 5 Sep 2027"
   },
   {
@@ -816,7 +816,7 @@
    "lead_weeks": 3,
    "risk": "Keep it practical.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Wed 8 Sep 2027"
   },
   {
@@ -842,7 +842,7 @@
    "lead_weeks": 6,
    "risk": "Show the work, not the logo.",
    "source": "https://www.awarenessdays.com/awareness-days-calendar/world-cleanup-day/",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Mon 20 Sep 2027 (UN day 20 Sep (resolution 78/122); many clean-ups run Sat 18 or Sun 19 Sep)"
   },
   {
@@ -868,7 +868,7 @@
    "lead_weeks": 3,
    "risk": "Keep it non-political and sincere.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Tue 21 Sep 2027"
   },
   {
@@ -894,7 +894,7 @@
    "lead_weeks": 8,
    "risk": "'Pinkwashing' gets called out. Say exactly what you give. No health claims.",
    "source": "Charity sites, by market",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of October 2027"
   },
   {
@@ -920,7 +920,7 @@
    "lead_weeks": 3,
    "risk": "Avoid stereotypes.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Fri 1 Oct 2027"
   },
   {
@@ -946,7 +946,7 @@
    "lead_weeks": 3,
    "risk": "Singapore marks its own Teachers' Day in September (a school holiday in Mavic's Holidays panel).",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Tue 5 Oct 2027"
   },
   {
@@ -972,7 +972,7 @@
    "lead_weeks": 6,
    "risk": "Support, don't sell. No therapeutic claims. Always link official services.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 10 Oct 2027"
   },
   {
@@ -998,7 +998,7 @@
    "lead_weeks": 4,
    "risk": "Back sourcing and waste claims with numbers.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sat 16 Oct 2027"
   },
   {
@@ -1024,7 +1024,7 @@
    "lead_weeks": 3,
    "risk": "Never use poverty imagery to sell.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 17 Oct 2027"
   },
   {
@@ -1050,7 +1050,7 @@
    "lead_weeks": 8,
    "risk": "Link Movember's resources for health topics. Be exact about donations.",
    "source": "https://movember.com",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "All of November 2027"
   },
   {
@@ -1076,7 +1076,7 @@
    "lead_weeks": 4,
    "risk": "Don't make kindness transactional ('buy one to be kind').",
    "source": "https://theworldkindnessmovement.org/home",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sat 13 Nov 2027"
   },
   {
@@ -1102,7 +1102,7 @@
    "lead_weeks": 8,
    "risk": "Be exact about matches, caps and where money goes.",
    "source": "https://www.timeanddate.com/holidays/world/giving-tuesday",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Tue 30 Nov 2027 (Tuesday after US Thanksgiving (25 Nov 2027))"
   },
   {
@@ -1128,7 +1128,7 @@
    "lead_weeks": 4,
    "risk": "Nothing about us without us: involve disabled people.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Fri 3 Dec 2027"
   },
   {
@@ -1154,7 +1154,7 @@
    "lead_weeks": 4,
    "risk": "Show the work.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Sun 5 Dec 2027"
   },
   {
@@ -1180,7 +1180,7 @@
    "lead_weeks": 3,
    "risk": "Avoid taking political sides; keep to your own practice.",
    "source": "https://www.un.org/en/observances/list-days-weeks",
-   "checked": "2026-11-12",
+   "checked": "2026-11-15",
    "date_display": "Fri 10 Dec 2027"
   }
  ]

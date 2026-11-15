@@ -10,7 +10,7 @@ from openpyxl.worksheet.formula import ArrayFormula
 DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'social_holidays_2027.py')
 exec(open(DATA).read())
 OUT = sys.argv[1] if len(sys.argv) > 1 else "2027-social-media-holidays-planner.xlsx"
-V = "Version 3.0  ·  12 Nov 2026  ·  dates checked 12 Nov 2026  ·  mavic.ai/toolkits"
+V = "Version 3.0.1  ·  15 Nov 2026  ·  dates checked 15 Nov 2026  ·  mavic.ai/toolkits"
 UTM = "?utm_source=toolkit&utm_medium=xlsx&utm_campaign=social_holidays_2027"
 CTA = "https://mavic.ai/" + UTM + "&utm_content=cta"
 HUB = "https://mavic.ai/toolkits/" + UTM + "&utm_content=hub"

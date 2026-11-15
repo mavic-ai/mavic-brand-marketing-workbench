@@ -32,6 +32,16 @@ Planning 2027? Start with the [Master List of 2027 Social Media Holidays](toolki
 
 Video formats and templates: `video/formats/` (explainer, how-to), `video/capture/` (a full screen recording brief), `video/remotion/paper-explainer/` (Remotion source), `video/examples/mavic/` (real episode packs).
 
+## Thumbnails and covers
+
+Videos from this workbench share one cover style, so a series looks like one brand. The rules, in short:
+
+- **Sizes:** YouTube thumbnail 1280x720 PNG under 2 MB, with the bottom-right corner clear for the duration badge. Reel cover 1080x1920 with everything important in the centre 1080x1350 so the 4:5 profile grid crop keeps it.
+- **Look:** light paper background, paper cut-out objects with a white torn edge and soft shadow, one hero illustration per cover drawn from the episode's own scene objects. Navy for text, pink for labels, teal for the payoff line. Inter 800 headline, two or three short lines broken by hand, last line in teal.
+- **Label and logo:** a small label above the headline ("Explainer" or "How-to"), the real brand logo bottom-left. Never an invented mark.
+- **Check:** view it at about 246 px wide before you publish. If the headline doesn't read, shorten it.
+- **Examples:** fictional demo brands only, no real logos or likenesses.
+
 ## Install the skills
 
 In Claude Code:

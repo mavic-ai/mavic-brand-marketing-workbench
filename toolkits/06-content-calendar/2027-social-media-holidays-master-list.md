@@ -1,6 +1,6 @@
 # Master List of 2027 Social Media Holidays
 
-Version 1.0 · 45 curated moments · dates checked 2026-11-12 · by [Mavic](https://mavic.ai/toolkits/?utm_source=github&utm_medium=readme&utm_campaign=social_holidays_2027) · CC BY 4.0
+Version 1.0 · 45 curated moments · dates checked 2026-11-15 · by [Mavic](https://mavic.ai/toolkits/?utm_source=github&utm_medium=readme&utm_campaign=social_holidays_2027) · CC BY 4.0
 
 Most "social media holiday" lists give you 365 days, most of them invented. This one keeps only the moments with a **social movement behind them**: a named organiser, people taking part beyond brand posts, a clear ask, and observance in at least one of Singapore, the Philippines, Australia, New Zealand or the United States. Public and religious holidays are left out on purpose (Mavic's Calendar shows those for each country), and so are sensitive days and brand-made sales days. See `curation-rules.md`.
 
@@ -25,11 +25,11 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 | Tue 9 Feb 2027 (activities run 1 to 28 Feb) | [Safer Internet Day](#safer-internet-day) | SG, PH, AU, NZ, US | Learn and share online safety habits |
 | Mon 1 Mar 2027 | [Zero Discrimination Day](#zero-discrimination-day) | SG, PH, AU, NZ, US | Speak up against discrimination |
 | Wed 3 Mar 2027 | [World Wildlife Day](#world-wildlife-day) | SG, PH, AU, NZ, US | Learn about and protect wildlife |
-| Sun 7 Mar 2027 (First Sunday of March; registrations for 2027 opened Nov 2026) | [Clean Up Australia Day](#clean-up-australia-day) | AU | Register or join a local clean-up |
+| Sun 7 Mar 2027 (Community clean-ups Sun 7 Mar; organiser events also on 2 and 5 Mar) | [Clean Up Australia Day](#clean-up-australia-day) | AU | Register or join a local clean-up |
 | Mon 8 Mar 2027 | [International Women's Day](#international-womens-day) | SG, PH, AU, NZ, US | Celebrate women and act for equality |
+| Sat 20 Mar 2027 (Organiser date: 8:30 pm local time) | [Earth Hour](#earth-hour) | SG, PH, AU, NZ, US | Switch off non-essential lights for an hour |
 | Sat 20 Mar 2027 | [International Day of Happiness](#international-day-of-happiness) | SG, PH, AU, NZ, US | Do one thing that makes someone happier |
 | Mon 22 Mar 2027 | [World Water Day](#world-water-day) | SG, PH, AU, NZ, US | Use less and protect water |
-| Sat 27 Mar 2027 (Last Saturday of March) | [Earth Hour](#earth-hour) | SG, PH, AU, NZ, US | Switch off non-essential lights for an hour |
 | Wed 7 Apr 2027 | [World Health Day](#world-health-day) | SG, PH, AU, NZ, US | Take one step for your health or others' |
 | Thu 22 Apr 2027 | [Earth Day](#earth-day) | SG, PH, AU, NZ, US | Take one action for the planet, this year on food |
 | Sat 24 Apr 2027 (Week around 24 April; 2027 dates TBC by the organiser) | [Fashion Revolution Week](#fashion-revolution-week) | SG, PH, AU, NZ, US | Ask brands #WhoMadeMyClothes; mend and rewear |
@@ -38,7 +38,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 | Sat 22 May 2027 | [International Day for Biological Diversity](#biodiversity-day) | SG, PH, AU, NZ, US | Learn about and protect local nature |
 | Mon 31 May 2027 | [World No Tobacco Day](#world-no-tobacco-day) | SG, PH, AU, NZ, US | Quit, or support someone quitting |
 | All of June 2027 | [Pride Month](#pride-month) | US, PH, NZ, SG (community events), AU (major events in Feb and Mar) | Celebrate, support and show up for LGBTQ+ people |
-| Sat 5 Jun 2027 | [World Environment Day](#world-environment-day) | SG, PH, AU, NZ, US | Take part in the year's campaign |
+| Sat 5 Jun 2027 (2027 host: Serbia (Belgrade)) | [World Environment Day](#world-environment-day) | SG, PH, AU, NZ, US | Take part in the year's campaign |
 | Tue 8 Jun 2027 | [World Oceans Day](#world-oceans-day) | SG, PH, AU, NZ, US | Act for the ocean |
 | Sun 20 Jun 2027 | [World Refugee Day](#world-refugee-day) | SG, PH, AU, NZ, US | Stand with refugees |
 | All of July 2027 | [Dry July](#dry-july) | AU, NZ | Go alcohol-free for July and raise funds |
@@ -81,7 +81,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your alcohol-free menu or range; Social plans that don't need a drink; Week-by-week check-ins
 - **Start planning:** 6 weeks before
 - **Watch out:** Alcohol brands should sit this out. No health claims.
-- **Source:** Organiser site (checked 2026-11-12)
+- **Source:** Organiser site (checked 2026-11-15)
 
 <a id="veganuary"></a>
 ### Veganuary
@@ -98,7 +98,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your best plant-based picks, honestly labelled; One simple swap a day for a week; A team member's Veganuary diary
 - **Start planning:** 6 weeks before
 - **Watch out:** No health claims you can't prove. Don't call a product vegan unless it is.
-- **Source:** Organiser site (checked 2026-11-12)
+- **Source:** Organiser site (checked 2026-11-15)
 
 <a id="education-day"></a>
 ### International Day of Education
@@ -115,7 +115,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A free lesson or resource from your team; The teacher who changed your founder's path; How your product helps someone learn
 - **Start planning:** 4 weeks before
 - **Watch out:** Avoid making it a sales post.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## February
@@ -135,7 +135,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Spotlight a Black-owned partner or supplier, with their consent; Share what you're reading or funding; Hand the mic to someone from your community
 - **Start planning:** 8 weeks before
 - **Watch out:** Tokenism backfires. No logo-only posts. Watch the US political climate and keep the focus on people.
-- **Source:** https://asalh.org (checked 2026-11-12)
+- **Source:** https://asalh.org (checked 2026-11-15)
 
 <a id="safer-internet-day"></a>
 ### Safer Internet Day
@@ -152,7 +152,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Three settings every parent should know in your app; How you protect customer data, in plain words; A myth-buster on online scams
 - **Start planning:** 4 weeks before
 - **Watch out:** Don't overstate your security. Point to official guidance.
-- **Source:** https://better-internet-for-kids.europa.eu/en/events/safer-internet-day-sid-2027 (checked 2026-11-12)
+- **Source:** https://better-internet-for-kids.europa.eu/en/events/safer-internet-day-sid-2027 (checked 2026-11-15)
 
 
 ## March
@@ -172,7 +172,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A policy you changed and why; What inclusion looks like in your hiring; A customer story about access
 - **Start planning:** 3 weeks before
 - **Watch out:** Words without policies read as empty.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-wildlife-day"></a>
 ### World Wildlife Day
@@ -189,12 +189,12 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A local species your customers can spot; How you reduce your impact on habitats; A partner conservation project
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid claims of impact you can't measure.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="clean-up-australia-day"></a>
 ### Clean Up Australia Day
 
-- **Date:** Sun 7 Mar 2027 (First Sunday of March; registrations for 2027 opened Nov 2026)
+- **Date:** Sun 7 Mar 2027 (Community clean-ups Sun 7 Mar; organiser events also on 2 and 5 Mar)
 - **Type:** Day
 - **Organiser:** Clean Up Australia (https://www.cleanup.org.au)
 - **Cause:** Rubbish-free places
@@ -206,7 +206,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Invite customers to your team's clean-up; Before and after photos of your site; What you found and what you'll change
 - **Start planning:** 6 weeks before
 - **Watch out:** Show the work, not the logo.
-- **Source:** https://nationaltoday.com/clean-up-australia-day/ (checked 2026-11-12)
+- **Source:** https://www.cleanup.org.au (checked 2026-11-15)
 
 <a id="international-womens-day"></a>
 ### International Women's Day
@@ -223,7 +223,24 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Women on your team in their own words; A number you're working to change (pay gap, promotions); Women-led partners or suppliers
 - **Start planning:** 6 weeks before
 - **Watch out:** Quote cards without action get called out. Check claims about pay and representation.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
+
+<a id="earth-hour"></a>
+### Earth Hour
+
+- **Date:** Sat 20 Mar 2027 (Organiser date: 8:30 pm local time)
+- **Type:** Hour (8:30 to 9:30 pm local)
+- **Organiser:** WWF (https://www.earthhour.org)
+- **Cause:** Climate and nature
+- **The ask:** Switch off non-essential lights for an hour
+- **Hashtag:** #EarthHour
+- **Markets:** SG, PH, AU, NZ, US
+- **Natural fit:** Hospitality, retail, F&B, offices, venues
+- **Join only if:** you will actually switch off (signs, stores, office) and can show it
+- **Content angles:** Your shopfront going dark at 8:30 pm; What your team does in the dark hour; One change you're keeping after the hour
+- **Start planning:** 6 weeks before
+- **Watch out:** Switching off for an hour isn't a climate strategy. Say what else you do.
+- **Source:** https://www.earthhour.org (checked 2026-11-15)
 
 <a id="international-day-of-happiness"></a>
 ### International Day of Happiness
@@ -240,7 +257,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** One small habit your team swears by; A customer moment that made your day; An act of kindness you'll do today
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid mental health claims.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-water-day"></a>
 ### World Water Day
@@ -257,24 +274,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** How much water your product or kitchen uses, and how you cut it; A tip customers can try at home; A partner water project
 - **Start planning:** 4 weeks before
 - **Watch out:** Back water-saving claims with numbers.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
-
-<a id="earth-hour"></a>
-### Earth Hour
-
-- **Date:** Sat 27 Mar 2027 (Last Saturday of March)
-- **Type:** Hour (8:30 to 9:30 pm local)
-- **Organiser:** WWF (https://www.earthhour.org)
-- **Cause:** Climate and nature
-- **The ask:** Switch off non-essential lights for an hour
-- **Hashtag:** #EarthHour
-- **Markets:** SG, PH, AU, NZ, US
-- **Natural fit:** Hospitality, retail, F&B, offices, venues
-- **Join only if:** you will actually switch off (signs, stores, office) and can show it
-- **Content angles:** Your shopfront going dark at 8:30 pm; What your team does in the dark hour; One change you're keeping after the hour
-- **Start planning:** 6 weeks before
-- **Watch out:** Switching off for an hour isn't a climate strategy. Say what else you do.
-- **Source:** https://awareness-days.co.uk/awareness-day/earth-hour/2027-03-27 (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## April
@@ -294,7 +294,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's lunchtime walk; A myth your industry gets asked about, answered; How you support staff health
 - **Start planning:** 4 weeks before
 - **Watch out:** Health claims are regulated. Stay general and point to official advice.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="earth-day"></a>
 ### Earth Day
@@ -311,7 +311,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** One change you made this year, with the number; A plant-forward dish or product, honestly labelled; What your customers can do with leftovers or packaging
 - **Start planning:** 8 weeks before
 - **Watch out:** Greenwashing. Every green claim needs proof.
-- **Source:** https://vegconomist.com/organisations-and-brands/earthday/ (checked 2026-11-12)
+- **Source:** https://vegconomist.com/organisations-and-brands/earthday/ (checked 2026-11-15)
 
 <a id="fashion-revolution-week"></a>
 ### Fashion Revolution Week
@@ -328,7 +328,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Meet the people who make your product; Your supplier list, or your plan to publish it; A mending or rewear tip
 - **Start planning:** 6 weeks before
 - **Watch out:** If you can't answer the question, don't ask it. Dates for 2027 not yet announced; the UK HQ closed in 2026 and the movement now runs through its global network.
-- **Source:** https://www.fashioncapital.co.uk/insights/fashion-revolution-closes-uk-hq-but-the-movement-continues-with-2026-campaign/ (checked 2026-11-12)
+- **Source:** https://www.fashioncapital.co.uk/insights/fashion-revolution-closes-uk-hq-but-the-movement-continues-with-2026-campaign/ (checked 2026-11-15)
 
 
 ## May
@@ -348,7 +348,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** What your team does to switch off; How you support staff mental health; Where to find help (link official services)
 - **Start planning:** 6 weeks before
 - **Watch out:** Support, don't sell. No therapeutic claims. Always link official services.
-- **Source:** https://mhanational.org (checked 2026-11-12)
+- **Source:** https://mhanational.org (checked 2026-11-15)
 
 <a id="world-bee-day"></a>
 ### World Bee Day
@@ -365,7 +365,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** How many of your ingredients rely on pollinators; A bee-friendly planting tip; A local beekeeper you work with
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid claims of 'saving the bees'.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="biodiversity-day"></a>
 ### International Day for Biological Diversity
@@ -382,7 +382,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A local plant or animal near your business; How you source responsibly; A partner restoration project
 - **Start planning:** 3 weeks before
 - **Watch out:** Back claims with specifics.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-no-tobacco-day"></a>
 ### World No Tobacco Day
@@ -399,7 +399,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** How you support staff who want to quit; Official quit resources; Smoke-free spaces you run
 - **Start planning:** 3 weeks before
 - **Watch out:** Stay with official health guidance.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## June
@@ -419,15 +419,15 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's own voices, with consent; A community partner and what you fund; Your policies, in plain words
 - **Start planning:** 8 weeks before
 - **Watch out:** Rainbow-washing gets called out. Check local rules and norms for each market before you post.
-- **Source:** Organiser sites, by market (checked 2026-11-12)
+- **Source:** Organiser sites, by market (checked 2026-11-15)
 
 <a id="world-environment-day"></a>
 ### World Environment Day
 
-- **Date:** Sat 5 Jun 2027
+- **Date:** Sat 5 Jun 2027 (2027 host: Serbia (Belgrade))
 - **Type:** Day
 - **Organiser:** UN Environment Programme (https://www.worldenvironmentday.global)
-- **Cause:** Environmental action; host country and theme set each year
+- **Cause:** Environmental action; 2027 host Serbia, theme Play for Humanity: Sport and Music for All
 - **The ask:** Take part in the year's campaign
 - **Hashtag:** #WorldEnvironmentDay
 - **Markets:** SG, PH, AU, NZ, US
@@ -435,8 +435,8 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Join only if:** you can show a change you've made
 - **Content angles:** This year's theme, applied to your business; A measured change; An action customers can take
 - **Start planning:** 6 weeks before
-- **Watch out:** Check the 2027 theme when UNEP announces it.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Watch out:** Tie your post to the 2027 theme only if you have a real link to it.
+- **Source:** https://www.worldenvironmentday.global (checked 2026-11-15)
 
 <a id="world-oceans-day"></a>
 ### World Oceans Day
@@ -453,7 +453,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Where your seafood comes from; A beach clean you'll join; Plastic you've cut
 - **Start planning:** 4 weeks before
 - **Watch out:** Seafood sourcing claims need certification.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-refugee-day"></a>
 ### World Refugee Day
@@ -470,7 +470,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A colleague's story, told by them, with consent; A refugee-led partner; What you fund and why
 - **Start planning:** 4 weeks before
 - **Watch out:** Never use people's stories without consent. Keep it about people, not politics.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## July
@@ -490,7 +490,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's fundraising page and progress; Your alcohol-free menu; Social plans without a drink
 - **Start planning:** 6 weeks before
 - **Watch out:** Alcohol brands should sit this out. Be exact about where funds go.
-- **Source:** https://www.dryjuly.com (checked 2026-11-12)
+- **Source:** https://www.dryjuly.com (checked 2026-11-15)
 
 <a id="plastic-free-july"></a>
 ### Plastic Free July
@@ -507,7 +507,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Packaging you've removed, with the number; A refill or bring-your-own offer; Customer swaps that stuck
 - **Start planning:** 6 weeks before
 - **Watch out:** 'Plastic-free' claims must be true for the whole product and pack.
-- **Source:** https://www.plasticfreejuly.org (checked 2026-11-12)
+- **Source:** https://www.plasticfreejuly.org (checked 2026-11-15)
 
 <a id="naidoc-week"></a>
 ### NAIDOC Week
@@ -524,7 +524,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A local event your team attends; An Indigenous-owned partner, with consent; What your team learned
 - **Start planning:** 8 weeks before
 - **Watch out:** Follow NAIDOC's guidelines on the theme and logo. Never use cultural material without permission. Dates are preliminary.
-- **Source:** https://www.timeanddate.com/holidays/australia/naidoc-week (checked 2026-11-12)
+- **Source:** https://www.timeanddate.com/holidays/australia/naidoc-week (checked 2026-11-15)
 
 <a id="earth-overshoot-day"></a>
 ### Earth Overshoot Day
@@ -541,7 +541,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** One solution from your business and what it saves; What #MoveTheDate means for your industry; A customer action that helps
 - **Start planning:** when the date is announced
 - **Watch out:** Date depends on the yearly calculation; plan once it's announced. Back every claim.
-- **Source:** https://overshoot.footprintnetwork.org/2026-calculation/ (checked 2026-11-12)
+- **Source:** https://overshoot.footprintnetwork.org/2026-calculation/ (checked 2026-11-15)
 
 
 ## August
@@ -561,7 +561,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your youngest team member takes over; An internship or first-job story; What young customers taught you
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid stereotypes about generations.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-humanitarian-day"></a>
 ### World Humanitarian Day
@@ -578,7 +578,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A partner you support and how; A volunteer on your team; How customers can help, through a trusted channel
 - **Start planning:** 3 weeks before
 - **Watch out:** Never use crisis imagery to sell.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## September
@@ -598,7 +598,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Who you support and why; How customers can join in; Your team's volunteering hours
 - **Start planning:** 3 weeks before
 - **Watch out:** Be exact about amounts and where money goes.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="international-literacy-day"></a>
 ### International Literacy Day
@@ -615,7 +615,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's favourite books; A book drive or donation; A tip for raising readers
 - **Start planning:** 3 weeks before
 - **Watch out:** Keep it practical.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-cleanup-day"></a>
 ### World Cleanup Day
@@ -632,7 +632,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's clean-up, in photos; What you collected and what it taught you; Invite customers to join
 - **Start planning:** 6 weeks before
 - **Watch out:** Show the work, not the logo.
-- **Source:** https://www.awarenessdays.com/awareness-days-calendar/world-cleanup-day/ (checked 2026-11-12)
+- **Source:** https://www.awarenessdays.com/awareness-days-calendar/world-cleanup-day/ (checked 2026-11-15)
 
 <a id="international-day-of-peace"></a>
 ### International Day of Peace
@@ -649,7 +649,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A community project you support; A message from your team; A moment of quiet in your stores or office
 - **Start planning:** 3 weeks before
 - **Watch out:** Keep it non-political and sincere.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## October
@@ -669,7 +669,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your donation, with the exact amount or percentage; Official screening guidance; A staff fundraiser
 - **Start planning:** 8 weeks before
 - **Watch out:** 'Pinkwashing' gets called out. Say exactly what you give. No health claims.
-- **Source:** Charity sites, by market (checked 2026-11-12)
+- **Source:** Charity sites, by market (checked 2026-11-15)
 
 <a id="international-day-of-older-persons"></a>
 ### International Day of Older Persons
@@ -686,7 +686,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** An older team member or customer, in their words; Accessibility you've improved; An intergenerational moment
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid stereotypes.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-teachers-day"></a>
 ### World Teachers' Day
@@ -703,7 +703,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A thank-you from your team to a teacher; A free resource for teachers; A teacher customer's story
 - **Start planning:** 3 weeks before
 - **Watch out:** Singapore marks its own Teachers' Day in September (a school holiday in Mavic's Holidays panel).
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-mental-health-day"></a>
 ### World Mental Health Day
@@ -720,7 +720,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** How your team takes breaks; What you changed for staff wellbeing; Where to find help (official services)
 - **Start planning:** 6 weeks before
 - **Watch out:** Support, don't sell. No therapeutic claims. Always link official services.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="world-food-day"></a>
 ### World Food Day
@@ -737,7 +737,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Food waste you've cut, with the number; Where your ingredients come from; A food bank you support
 - **Start planning:** 4 weeks before
 - **Watch out:** Back sourcing and waste claims with numbers.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="end-poverty-day"></a>
 ### International Day for the Eradication of Poverty
@@ -754,7 +754,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your partner and what you fund; Fair pay in your supply chain; How customers can help through trusted charities
 - **Start planning:** 3 weeks before
 - **Watch out:** Never use poverty imagery to sell.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 
 ## November
@@ -774,7 +774,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's Mo progress; A fundraising goal and where it stands; How to check in on a mate (Movember's own resources)
 - **Start planning:** 8 weeks before
 - **Watch out:** Link Movember's resources for health topics. Be exact about donations.
-- **Source:** https://movember.com (checked 2026-11-12)
+- **Source:** https://movember.com (checked 2026-11-15)
 
 <a id="world-kindness-day"></a>
 ### World Kindness Day
@@ -791,7 +791,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A kind act by your team, done before you post; A customer who was kind to you; An invitation to pass it on
 - **Start planning:** 4 weeks before
 - **Watch out:** Don't make kindness transactional ('buy one to be kind').
-- **Source:** https://theworldkindnessmovement.org/home (checked 2026-11-12)
+- **Source:** https://theworldkindnessmovement.org/home (checked 2026-11-15)
 
 <a id="givingtuesday"></a>
 ### GivingTuesday
@@ -808,7 +808,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** What you're giving and to whom; Match customer donations, with a cap and a deadline; Your team volunteering
 - **Start planning:** 8 weeks before
 - **Watch out:** Be exact about matches, caps and where money goes.
-- **Source:** https://www.timeanddate.com/holidays/world/giving-tuesday (checked 2026-11-12)
+- **Source:** https://www.timeanddate.com/holidays/world/giving-tuesday (checked 2026-11-15)
 
 
 ## December
@@ -828,7 +828,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** An accessibility fix you made; A disabled team member or customer, in their words, with consent; How to use your product with assistive tech
 - **Start planning:** 4 weeks before
 - **Watch out:** Nothing about us without us: involve disabled people.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="international-volunteer-day"></a>
 ### International Volunteer Day
@@ -845,7 +845,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** Your team's volunteer hours and where; A volunteer customer's story; An open invitation to join you
 - **Start planning:** 4 weeks before
 - **Watch out:** Show the work.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 <a id="human-rights-day"></a>
 ### Human Rights Day
@@ -862,7 +862,7 @@ Machine-readable copies: `2027-social-media-holidays-master-list.json`, `2027-so
 - **Content angles:** A right your business protects, in practice; Your supplier code, in plain words; A partner you support
 - **Start planning:** 3 weeks before
 - **Watch out:** Avoid taking political sides; keep to your own practice.
-- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-12)
+- **Source:** https://www.un.org/en/observances/list-days-weeks (checked 2026-11-15)
 
 ## Left out on purpose
 

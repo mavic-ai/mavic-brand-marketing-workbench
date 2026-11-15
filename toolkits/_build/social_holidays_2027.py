@@ -1,6 +1,6 @@
 # Single source of truth for the Master List of 2027 Social Media Holidays.
-# Every entry passed the four tests in curation-rules.md. Checked 12 Nov 2026.
-CHECKED = "2026-11-12"
+# Every entry passed the four tests in curation-rules.md. Checked 12 Nov 2026; organiser links re-checked 15 Nov 2026.
+CHECKED = "2026-11-15"
 ALL = "SG, PH, AU, NZ, US"
 UN = "https://www.un.org/en/observances/list-days-weeks"
 
@@ -49,7 +49,7 @@ E("clean-up-australia-day","Clean Up Australia Day","2027-03-07","2027-03-07","D
   "Rubbish-free places","Register or join a local clean-up","#CleanUpAustraliaDay","AU","Local businesses, retail, F&B, teams",
   "your team will actually turn up and clean up",
   ["Invite customers to your team's clean-up","Before and after photos of your site","What you found and what you'll change"],6,
-  "Show the work, not the logo.","https://nationaltoday.com/clean-up-australia-day/","First Sunday of March; registrations for 2027 opened Nov 2026"),
+  "Show the work, not the logo.","https://www.cleanup.org.au","Community clean-ups Sun 7 Mar; organiser events also on 2 and 5 Mar"),
 E("international-womens-day","International Women's Day","2027-03-08","2027-03-08","Day","United Nations (UN Women), with the internationalwomensday.com campaign","https://www.un.org/en/observances/womens-day",
   "Women's rights and gender equality","Celebrate women and act for equality","#IWD2027",ALL,"Any brand that can show real action",
   "you can show women in your business, customers or supply chain, and what you're doing for equality",
@@ -65,11 +65,11 @@ E("world-water-day","World Water Day","2027-03-22","2027-03-22","Day","UN-Water"
   "water use is part of your business",
   ["How much water your product or kitchen uses, and how you cut it","A tip customers can try at home","A partner water project"],4,
   "Back water-saving claims with numbers.",UN),
-E("earth-hour","Earth Hour","2027-03-27","2027-03-27","Hour (8:30 to 9:30 pm local)","WWF","https://www.earthhour.org",
+E("earth-hour","Earth Hour","2027-03-20","2027-03-20","Hour (8:30 to 9:30 pm local)","WWF","https://www.earthhour.org",
   "Climate and nature","Switch off non-essential lights for an hour","#EarthHour",ALL,"Hospitality, retail, F&B, offices, venues",
   "you will actually switch off (signs, stores, office) and can show it",
   ["Your shopfront going dark at 8:30 pm","What your team does in the dark hour","One change you're keeping after the hour"],6,
-  "Switching off for an hour isn't a climate strategy. Say what else you do.","https://awareness-days.co.uk/awareness-day/earth-hour/2027-03-27","Last Saturday of March"),
+  "Switching off for an hour isn't a climate strategy. Say what else you do.","https://www.earthhour.org","Organiser date: 8:30 pm local time"),
 E("world-health-day","World Health Day","2027-04-07","2027-04-07","Day","World Health Organization","https://www.who.int/campaigns/world-health-day",
   "Health for all","Take one step for your health or others'","#WorldHealthDay",ALL,"Health, fitness, insurance, workplaces, food",
   "you have a health role and can stay within regulated claims",
@@ -111,10 +111,10 @@ E("pride-month","Pride Month","2027-06-01","2027-06-30","Month","Local Pride org
   ["Your team's own voices, with consent","A community partner and what you fund","Your policies, in plain words"],8,
   "Rainbow-washing gets called out. Check local rules and norms for each market before you post.","Organiser sites, by market"),
 E("world-environment-day","World Environment Day","2027-06-05","2027-06-05","Day","UN Environment Programme","https://www.worldenvironmentday.global",
-  "Environmental action; host country and theme set each year","Take part in the year's campaign","#WorldEnvironmentDay",ALL,"Sustainability, packaging, food, outdoor",
+  "Environmental action; 2027 host Serbia, theme Play for Humanity: Sport and Music for All","Take part in the year's campaign","#WorldEnvironmentDay",ALL,"Sustainability, packaging, food, outdoor",
   "you can show a change you've made",
   ["This year's theme, applied to your business","A measured change","An action customers can take"],6,
-  "Check the 2027 theme when UNEP announces it.",UN),
+  "Tie your post to the 2027 theme only if you have a real link to it.","https://www.worldenvironmentday.global","2027 host: Serbia (Belgrade)"),
 E("world-oceans-day","World Oceans Day","2027-06-08","2027-06-08","Day","United Nations","https://www.un.org/en/observances/oceans-day",
   "Healthy oceans","Act for the ocean","#WorldOceansDay",ALL,"Seafood, beach, travel, packaging, outdoor",
   "your business touches the sea, seafood or plastic",

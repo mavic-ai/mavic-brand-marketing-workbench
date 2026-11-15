@@ -2,7 +2,7 @@
 
 Post regularly, adapt every idea for each channel, and plan 2027 around the moments people already care about.
 
-Version 3.0 (12 Nov 2026). Replaces the 30-Day Content Calendar v2. Dates checked 12 Nov 2026.
+Version 3.0.1 (15 Nov 2026). Replaces the 30-Day Content Calendar v2. Dates checked 12 Nov 2026; organiser links and dates re-checked 15 Nov 2026.
 
 | File | What it is |
 | --- | --- |
