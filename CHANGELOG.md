@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.2.0 (16 Nov 2026)
+
+The content calendar chain.
+
+- Toolkit 06, v3.0: **Master List of 2027 Social Media Holidays + Content Planner**. 45 moments with a social movement behind them, curated with four tests (`curation-rules.md`), in markdown, JSON, CSV and iCalendar. Method (rhythm, one idea every channel, fit test, plan the year), worksheet, channel guide and sources. Replaces the 30-Day Content Calendar v2.
+- Workbench: `content-plan/plan-2027.md` template, and a complete 2027 plan for the fictional Kopi Corner.
+- Skill: `content-calendar-planner` 0.1.0, with 9 eval cases on Kopi Corner (not yet run).
+- Build: `toolkits/_build/social_holidays_2027.py` (the list's single source), `social_holidays_export.py` and `planner.py` (the 2027 planner workbook).
+- Channel Mastery: `toolkits/channel-mastery/instagram-searchability/instagram-searchability-checklist.md`, a one page Instagram searchability checklist with an evidence label on every line (15 Nov 2026).
+- Plugin 0.2.0.
+- 15 Nov 2026: organiser links re-checked. Earth Hour 2027 moved to Sat 20 March (WWF's date), World Environment Day 2027 host and theme added, Clean Up Australia Day source moved to the organiser. Planner workbook 3.0.1.
+
 ## 0.1.0 (12 Nov 2026)
 
 First public release: the brand voice chain.

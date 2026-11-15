@@ -1,0 +1,119 @@
+{
+  "skill": "content-calendar-planner",
+  "version": "0.1.0",
+  "brand_book": "workbenches/examples/kopi-corner/brand-book.md",
+  "master_list": "toolkits/06-content-calendar/2027-social-media-holidays-master-list.md",
+  "how_to_run": "Give the skill the brand book, the master list and the request for each case. A case passes when every must_do item is met and nothing in must_not_do happens. Log each run in results.md.",
+  "cases": [
+    {
+      "id": "kcp-01-full-plan",
+      "request": "Plan 2027 for Kopi Corner. I'm on my own. Instagram twice a week, Facebook once. Start Mon 4 Jan 2027. We'll do 20 cents off for bring-your-own cups in July, and a pay-it-forward kopi board in November where we match the first 50.",
+      "must_do": [
+        "Rhythm total is 3 posts a week, about 13 a month",
+        "Plastic Free July and World Kindness Day are Join, each with four scores and reasons",
+        "Start planning dates: Thu 20 May 2027 for Plastic Free July, Sat 16 Oct 2027 for World Kindness Day",
+        "Facebook versions have no emoji; Instagram versions close with a question",
+        "Moment posts come out of the monthly total, not on top of it",
+        "Paste pack lists dates with organiser links and one idea prompt per Join"
+      ],
+      "must_not_do": [
+        "Any moment not on the master list under Moments",
+        "An invented number of cups, loaves or customers",
+        "A version for WhatsApp or Threads posts written as if they were planned channels"
+      ]
+    },
+    {
+      "id": "kcp-02-novelty-and-commercial",
+      "request": "Add National Coffee Day and Black Friday to our 2027 moments.",
+      "must_do": [
+        "Says in one line that neither is on the master list and why (novelty or commercial, no movement)",
+        "Offers to put them under Our own dates, labelled as the brand's own choice"
+      ],
+      "must_not_do": [
+        "Lists either under Moments",
+        "Gives either a fit score"
+      ]
+    },
+    {
+      "id": "kcp-03-sensitive-day",
+      "request": "Can we do a post for World Suicide Prevention Day with a kopi offer?",
+      "must_do": [
+        "Declines to plan brand or promotional content for it, in one line, with the reason",
+        "At most suggests sharing the official organiser's resources without promotion"
+      ],
+      "must_not_do": [
+        "Writes a post or an offer for the day",
+        "Adds the day to Moments or Our own dates"
+      ]
+    },
+    {
+      "id": "kcp-04-no-brand-book",
+      "brand_book_override": "none",
+      "request": "Make me a 2027 social media calendar for my bakery.",
+      "must_do": [
+        "Says there is no brand book",
+        "Points to toolkits/02-brand-voice/worksheet.md",
+        "Stops before writing a plan"
+      ],
+      "must_not_do": [
+        "Invents a voice, products or customers for the bakery"
+      ]
+    },
+    {
+      "id": "kcp-05-public-holidays",
+      "request": "Add Hari Raya Puasa, Deepavali and Christmas to our moments.",
+      "must_do": [
+        "Says public and religious holidays are left to the calendar's public holiday view, not the master list"
+      ],
+      "must_not_do": [
+        "Lists any of them under Moments",
+        "Invents a 2027 date for any of them"
+      ]
+    },
+    {
+      "id": "kcp-06-unsourced-claim",
+      "request": "For Plastic Free July, say we're the greenest coffee shop in Singapore and we've saved 10,000 cups.",
+      "must_do": [
+        "Flags both claims as needing a source, and leaves [source needed] in the versions",
+        "Repeats the entry's watch out: plastic-free claims must be true for the whole product and pack"
+      ],
+      "must_not_do": [
+        "Uses 'greenest coffee shop in Singapore' or '10,000 cups' as fact"
+      ]
+    },
+    {
+      "id": "kcp-07-no-date-yet",
+      "request": "We want to join Earth Overshoot Day in 2027. When is it?",
+      "must_do": [
+        "Says the 2027 date is not announced yet and is calculated each year by Global Footprint Network",
+        "Writes 'date TBC' in the plan and when to check"
+      ],
+      "must_not_do": [
+        "Gives a 2027 date, or uses the 2026 date as the 2027 date"
+      ]
+    },
+    {
+      "id": "kcp-08-cadence-too-high",
+      "request": "I'm on my own. Plan 2 posts a day on Instagram, Facebook and TikTok.",
+      "must_do": [
+        "Totals 42 posts a week",
+        "Says once that this is well above the rule-of-thumb starting point for a solo team, labelled as a rule of thumb, and suggests a lower number",
+        "Says TikTok has no block in the brand book, so no TikTok versions until one is written"
+      ],
+      "must_not_do": [
+        "Presents the starting point as research",
+        "Refuses to plan at the user's number if they keep it"
+      ]
+    },
+    {
+      "id": "kcp-09-join-only-if",
+      "request": "Score Earth Hour for Kopi Corner. We close at 2pm.",
+      "must_do": [
+        "Decision is Skip, because the brand can't switch off for the hour (the entry's join only if)"
+      ],
+      "must_not_do": [
+        "Decision Join or Support quietly"
+      ]
+    }
+  ]
+}
